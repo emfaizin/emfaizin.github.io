@@ -1,2 +1,1282 @@
-﻿/* == V.1.6 LAST UPDATE @ 2021-04-22T07:41:00+07:00 == */
-var _0x5b51=['javascript:void(0)','</b>','placeholder','.productDetail','html','closest','prependTo','blur','parents','.poptamv-btn.waFix','data-popHeight','https://www.youtube.com/embed/','attr','toUpperCase','prototype','_fbq','mfp-fade','substring','.btnSearch','.submit','\x20.productCheckoutInfo\x20.infoTitle','\x20.pembayaran','header','src','perkenalkan,\x20saya\x20*','.headerSearch','remove','a[href*=\x22bp.blogspot.com\x22]','indexOf','\x22\x20belum\x20Aktif..<br/><br/><a\x20href=\x22https://www.kangrian.net/p/aktivasi-lisensi-website.html\x22\x20target=\x22_blank\x22\x20rel=\x22nofollow\x20external\x22>Cara\x20Aktivasi?</a>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','https://kangrian.github.io/TokoWhatsApp/wa.mp3','setItem','checkoutWhatsApp','.formWA\x20.wajib','lazy-bg','.itemPost','bind','/?m=1','addClass','parentNode','iframe','data-price','test','textarea.code','.title-content','img','next','\x20.hp','\x22><i\x20class=\x22icon\x20ion-logo-','.poptamv-btn,\x20.tombol-wa','loaded','{}.constructor(\x22return\x20this\x22)(\x20)','delay','status','constructor','return\x20(function()\x20','callMethod','.headerSearch\x20i.ion-ios-arrow-back','<b>','removeAttr','hide','&m=1','\x20.wajib','userAgent','error','id\x20tidak\x20ditemukan','.lightframe','<small><span>-','.tw_category\x20.Label','\x20.pesan','no_whatsapp','keyup','\x20.title-content','change','FBPixel_ID','data-discount-percent','—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—%0A%0A','auto','readonly','*.%0A%0A','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:\x20fixed!important;z-index:999999!important;top:0!important;left:\x200!important;width:\x20100%!important;height:\x20100%!important;display:\x20flex!important;background:\x20rgba(0,0,0,.4)!important;\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20block!important;margin:\x20auto!important;width:\x20600px!important;max-width:90%!important;text-align:\x20center!important;background:\x20#fff!important;\x20padding:\x2040px!important;border-radius:\x208px!important;\x22>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Lisensi\x20Template\x20untuk\x20website\x20\x22','background-image:url(\x22','\x20.productOptionInfo','getItem','.productOrder\x20a.tombol-wa','.headerSearch\x20form\x20i.ion-md-close','magnificPopup','No.\x20HP\x20(\x20Aktif\x20)\x20:\x20','data-width','exception','#page-loader',',\x20height=','keyCode','scroll','version','toggleClass','load','ready','kirimWhatsApp','1258762jTfGrb','#checkoutWhatsApp\x20.submit','</s></small><b>','\x20.nama','appendTo','.content\x20img','open','872745eBdjOp','lightbox','?autoplay=1','text','track',',\x20top=','.tw_menu\x20.LinkList','.widget-item-control','hostname','ion-ios-menu','addEventListener','1001711fNdGVV','fadeOut','onScroll','.btnMenu,\x20.closeMenu','.btnNotif\x20span','1CwhiJa','getElementsByTagName','preload','.quickedit','find','mfp-figure','https://connect.facebook.net/en_US/fbevents.js','split','InitiateCheckout','warn','toggle','<span\x20class=\x22validasi\x22><b>','.productCheckoutInfo\x20.total','hideScroll','data-img','email','.formWA\x20input,\x20.formWA\x20textarea','toolbar=no,\x20location=no,\x20directories=no,\x20status=no,\x20menubar=no,\x20scrollbars=yes,\x20resizable=1,\x20copyhistory=no,\x20width=','.lightbox','async','location','..\x20','label','a.btnNotif','\x22\x20data-popWidth=\x221280\x22\x20href=\x22','pesan_salam','Contact','<noscript><img\x20height=\x221\x22\x20width=\x221\x22\x20style=\x22display:none\x22\x20src=\x22https://www.facebook.com/tr?id=','script','PageView','data-popWidth','via\x20','.poptamv','parent','data-tooltip','length','data-src','.formWA\x20textarea.catatan','<span\x20class=\x27productPrice_after\x27>Test</span>','beforeunload','related','href','.*%0A%0A','each','&amp;ev=PageView&amp;noscript=1\x22/></noscript>','active','https://api.whatsapp.com/send','body','ss_notif','val','data-selected','log','virtual','.item','replace','a[href*=\x22https://www.youtube.com/watch?v=\x22]','.formWA\x20select','.validasi','\x22);visibility:none!important','after','image','605086cSvPMG','.btnNotif','nama_admin','*Catatan\x20:*%0A','Escape','\x20)%0A%0A','IDR','\x20.catatan','%0A','\x0a\x0aTerima\x20kasih!\x20Admin\x20\x22','focus','ion-md-phone-portrait','trim','waFix','show','data-blogID','console','.productPrice_after','.headerSearch\x20form\x20.text','tel','virtual_products','push','.lazy-bg','*Metode\x20Pembayaran\x20:*%0A','.LinkList\x20li\x20a[href*=\x22#\x22]','487840zxKYzf','.productOptionInfo\x20small:nth-last-child(1),\x20.productOptionInfo\x20small:nth-last-child(2)','<a\x20class=\x22popWin\x20','append','default','ion-ios-arrow-up','trigger','type','height','.poptamv\x20.closeTamv','ul:first','.btnCat,\x20.closeCategory,\x20.btnCategory,\x20.tw_category\x20.utama','\x20.alamat','style','click','.LinkList\x20li\x20a:contains(\x22_\x22)','markup','ViewContent','popWin\x20videoYoutube','saya\x20mau\x20beli\x20*','return\x20/\x22\x20+\x20this\x20+\x20\x22/','removeClass','.formWA','target','fadeIn','.productCheckout','.popWin','</b>\x20(dibutuhkan)</span>','Atas\x20Nama.%0A*','max-width:','.formWA\x20[type=email]','background-image:url(','\x22\x20\x20:]\x0a\x0aSudah\x20menjadi\x20Donatur\x20Kopi\x20https://KangRian.NET\x0a\x0a\x0a\x20\x20\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20██\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20██\x20\x20██\x20\x20\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20████████████████████\x20\x20\x20\x20\x0a\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██████\x0a\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██\x20\x20██\x0a\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██\x20\x20██\x0a\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██████\x0a\x20\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██\x20\x20\x20\x20\x20\x20\x0a\x20████████████████████████\x20\x20\x0a\x20██\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20██\x20\x20\x0a\x20\x20\x20████████████████████\x20\x20\x20\x20\x0a\x20\x0a\x0a\x0a\x0a','apply','&text=','No.\x20HP\x20(\x20Aktif\x20)..','7EHXODq','%</span><s>','toString','mfp-figure\x20mfp-with-anim','707214IJiXUd','569631cvSoWh','<ul></ul>','data-effect','canplaythrough','.dd','a.lightbox','width','createElement','*Alamat\x20:*%0A','.btnMenu','.tw_search','%0A%0A','queue','scrollTop','\x22></i></a>','.poptamv-wrap','fadeToggle','px!important;','#checkoutWhatsApp\x20.formWA\x20.submit','.formWA\x20.submit','Purchase','trace','#checkoutWhatsApp\x20.alamat','select','load_notif','?phone=','💬\x20','audio'];function _0x1d93(_0x3ca4c9,_0x22e865){_0x3ca4c9=_0x3ca4c9-0x11a;var _0x2e05f8=_0x5b51[_0x3ca4c9];return _0x2e05f8;}var _0x298251=_0x1d93;(function(_0x59acbb,_0x9aa38e){var _0x196f41=_0x1d93;while(!![]){try{var _0x25ce24=parseInt(_0x196f41(0x21a))+-parseInt(_0x196f41(0x1d8))+-parseInt(_0x196f41(0x1cd))+parseInt(_0x196f41(0x1c6))*-parseInt(_0x196f41(0x1dd))+-parseInt(_0x196f41(0x146))+parseInt(_0x196f41(0x147))+parseInt(_0x196f41(0x11e))*parseInt(_0x196f41(0x142));if(_0x25ce24===_0x9aa38e)break;else _0x59acbb['push'](_0x59acbb['shift']());}catch(_0x41ce81){_0x59acbb['push'](_0x59acbb['shift']());}}}(_0x5b51,0xb6e6d));var _0x1829c3=function(){var _0x3da9fc=!![];return function(_0x5b35b0,_0x227529){var _0x2a98f4=_0x3da9fc?function(){if(_0x227529){var _0x2788d3=_0x227529['apply'](_0x5b35b0,arguments);return _0x227529=null,_0x2788d3;}}:function(){};return _0x3da9fc=![],_0x2a98f4;};}(),_0xd1243f=_0x1829c3(this,function(){var _0x5c0bd4=function(){var _0x122bfc=_0x1d93,_0x10c391=_0x5c0bd4[_0x122bfc(0x199)](_0x122bfc(0x132))()['constructor']('^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}');return!_0x10c391[_0x122bfc(0x18d)](_0xd1243f);};return _0x5c0bd4();});_0xd1243f();var _0x91d9cc=function(){var _0x5ba5ab=!![];return function(_0x144c81,_0x529b23){var _0xb0fedd=_0x5ba5ab?function(){var _0x4f0c77=_0x1d93;if(_0x529b23){var _0x376257=_0x529b23[_0x4f0c77(0x13f)](_0x144c81,arguments);return _0x529b23=null,_0x376257;}}:function(){};return _0x5ba5ab=![],_0xb0fedd;};}(),_0x52cb4f=_0x91d9cc(this,function(){var _0x21ed87=_0x1d93,_0x367650;try{var _0x3c1cc7=Function(_0x21ed87(0x19a)+_0x21ed87(0x196)+');');_0x367650=_0x3c1cc7();}catch(_0x1981be){_0x367650=window;}var _0x198bd6=_0x367650['console']=_0x367650[_0x21ed87(0x22a)]||{},_0x40ef10=[_0x21ed87(0x210),_0x21ed87(0x1e6),'info',_0x21ed87(0x1a3),_0x21ed87(0x1bc),'table',_0x21ed87(0x15c)];for(var _0x5d6c6f=0x0;_0x5d6c6f<_0x40ef10[_0x21ed87(0x200)];_0x5d6c6f++){var _0x347372=_0x91d9cc[_0x21ed87(0x199)][_0x21ed87(0x171)][_0x21ed87(0x187)](_0x91d9cc),_0x4745d1=_0x40ef10[_0x5d6c6f],_0x1e4e05=_0x198bd6[_0x4745d1]||_0x347372;_0x347372['__proto__']=_0x91d9cc[_0x21ed87(0x187)](_0x91d9cc),_0x347372[_0x21ed87(0x144)]=_0x1e4e05['toString'][_0x21ed87(0x187)](_0x1e4e05),_0x198bd6[_0x4745d1]=_0x347372;}});_0x52cb4f(),$(_0x298251(0x1d4))[_0x298251(0x17d)](),$(document)['ready'](function(){var _0x2169d9=_0x298251;tw_config[_0x2169d9(0x22e)]&&($('.productCheckoutInfo\x20.ongkir')['remove'](),$(_0x2169d9(0x15d))[_0x2169d9(0x168)](_0x2169d9(0x1f3))[_0x2169d9(0x17d)](),$(_0x2169d9(0x137))[_0x2169d9(0x189)](_0x2169d9(0x211)),$(_0x2169d9(0x11f))['remove']());}),$(_0x298251(0x214))[_0x298251(0x208)](function(){var _0x2b517b=_0x298251,_0x42f15e=$(this)[_0x2b517b(0x16f)](_0x2b517b(0x206)),_0x390ea1=_0x42f15e['split']('v=')[0x1],_0x5083ae=_0x390ea1[_0x2b517b(0x17f)]('&');_0x5083ae!=-0x1&&(_0x390ea1=video_id[_0x2b517b(0x174)](0x0,_0x5083ae));$(this)[_0x2b517b(0x16f)](_0x2b517b(0x206),_0x2b517b(0x16e)+_0x390ea1+_0x2b517b(0x1cf)),$(this)['addClass'](_0x2b517b(0x130));var _0x43b151='https://img.youtube.com/vi/'+_0x390ea1+'/maxresdefault.jpg';$(this)['attr']('style',_0x2b517b(0x13d)+_0x43b151+');');}),$(_0x298251(0x1e0))[_0x298251(0x19e)]('onclick'),$(_0x298251(0x1e0))[_0x298251(0x19e)](_0x298251(0x135)),$('.quickedit')[_0x298251(0x189)]('popWin'),$(_0x298251(0x1e0))[_0x298251(0x16f)](_0x298251(0x1fb),0x258),$('.quickedit\x20img')['remove'](),$('.quickedit')[_0x298251(0x121)]('<i\x20class=\x22icon\x20ion-md-create\x22></i>');var arr_socmed=tw_socmed;$[_0x298251(0x208)](arr_socmed,function(_0x2c9bca,_0x5e3275){var _0xce1c5c=_0x298251;_0x2c9bca!=null&&_0x5e3275!=''&&$('#follow\x20.followBtn,\x20.followBtn2')[_0xce1c5c(0x121)](_0xce1c5c(0x120)+_0x2c9bca+_0xce1c5c(0x1f5)+_0x5e3275+_0xce1c5c(0x193)+_0x2c9bca+_0xce1c5c(0x155));}),$(window)['on'](_0x298251(0x204),function(){var _0xa81a15=_0x298251;$(_0xa81a15(0x1fd))[_0xa81a15(0x133)]('open'),$['magnificPopup']['close'](),$(_0xa81a15(0x1bd))[_0xa81a15(0x136)](0x1f4)[_0xa81a15(0x197)](0x3e8)['fadeOut'](0x3e8);}),$(window)['on'](_0x298251(0x1c3),function(){var _0x2d0511=_0x298251;$(_0x2d0511(0x1bd))[_0x2d0511(0x1d9)](0x1f4),$(_0x2d0511(0x18b))[_0x2d0511(0x208)](function(){var _0x5cde2e=_0x2d0511,_0x2c740a=$(this)[_0x5cde2e(0x16f)]('data-src');$(this)[_0x5cde2e(0x16f)](_0x5cde2e(0x17a),_0x2c740a),$(this)[_0x5cde2e(0x19e)](_0x5cde2e(0x201));});var _0x524932=location['href'][_0x2d0511(0x1e4)]('/')[0x0]+'//'+location[_0x2d0511(0x206)][_0x2d0511(0x1e4)]('/')[0x2]+'/',_0x87bff8=location[_0x2d0511(0x206)]['split']('/')[0x0]+'//'+location[_0x2d0511(0x206)][_0x2d0511(0x1e4)]('/')[0x2]+_0x2d0511(0x188);(!localStorage['getItem'](_0x2d0511(0x15f))&&location['href']==_0x524932||location['href']==_0x87bff8)&&($(_0x2d0511(0x1f4))['trigger']('click'),localStorage['setItem'](_0x2d0511(0x15f),0x1));}),$(_0x298251(0x190))[_0x298251(0x208)](function(){var _0x4c2119=_0x298251,_0x3ed294=$(this)['attr'](_0x4c2119(0x201));$(this)['attr'](_0x4c2119(0x17a),_0x3ed294),$(this)[_0x4c2119(0x19e)](_0x4c2119(0x201));}),$(_0x298251(0x11b))['each'](function(){var _0x596e71=_0x298251,_0x36f8a7=$(this)[_0x596e71(0x16f)](_0x596e71(0x201));$(this)['attr']('style',_0x596e71(0x1b4)+_0x36f8a7+_0x596e71(0x217)),$(this)['removeAttr'](_0x596e71(0x201)),$(this)[_0x596e71(0x133)](_0x596e71(0x185));}),$(window)['on'](_0x298251(0x1c0),function(){var _0x4e8199=_0x298251;$(_0x4e8199(0x179))[_0x4e8199(0x208)](function(){var _0x15ea20=_0x4e8199;$(window)[_0x15ea20(0x154)]()>=0x1?$(this)[_0x15ea20(0x189)](_0x15ea20(0x1da)):$(this)[_0x15ea20(0x133)]('onScroll');});}),$('.productTitle')[_0x298251(0x208)](function(){var _0xcda373=_0x298251,_0x1cfff0=$(this)[_0xcda373(0x16b)](_0xcda373(0x186))['find'](_0xcda373(0x166));$(this)[_0xcda373(0x169)](_0x1cfff0);}),$('.productPrice')['each'](function(){var _0x395ac6=_0x298251,_0x5f3c12=$(this)[_0x395ac6(0x1d0)](),_0x101358=$(this)[_0x395ac6(0x16f)](_0x395ac6(0x1ae));if(!_0x101358||_0x101358==0x0||_0x101358==''){var _0x9a1f8a=$(this)[_0x395ac6(0x168)](_0x395ac6(0x166))[_0x395ac6(0x1e1)]('.data_discount');_0x101358=_0x9a1f8a['text'](),_0x9a1f8a[_0x395ac6(0x17d)]();}var _0x557663=_0x5f3c12-_0x5f3c12*_0x101358/0x64,_0x4a064b='';$(this)[_0x395ac6(0x218)](_0x395ac6(0x203));if(!_0x101358||_0x101358==0x0||_0x101358==''){$(this)['next'](_0x395ac6(0x22b))[_0x395ac6(0x167)](_0x395ac6(0x19d)+angkaToRp(_0x5f3c12)+_0x395ac6(0x164));var _0x4a064b=_0x5f3c12;}else{$(this)[_0x395ac6(0x191)](_0x395ac6(0x22b))['html'](_0x395ac6(0x1a6)+_0x101358+_0x395ac6(0x143)+angkaToRp(_0x5f3c12)+_0x395ac6(0x1c8)+angkaToRp(_0x557663)+'</b>');var _0x4a064b=_0x557663;}$(this)[_0x395ac6(0x16f)](_0x395ac6(0x20f),_0x4a064b),$(this)[_0x395ac6(0x16b)]('.itemPost')[_0x395ac6(0x16f)](_0x395ac6(0x18c),_0x4a064b);}),$(_0x298251(0x1ef))[_0x298251(0x208)](function(){var _0x5ccfb6=_0x298251;$(this)[_0x5ccfb6(0x1b9)]({'type':_0x5ccfb6(0x219),'verticalFit':![],'gallery':{'enabled':!![]},'callbacks':{'beforeOpen':function(){var _0x4fc16b=_0x5ccfb6;this['st']['image'][_0x4fc16b(0x12e)]=this['st'][_0x4fc16b(0x219)][_0x4fc16b(0x12e)][_0x4fc16b(0x213)](_0x4fc16b(0x1e2),_0x4fc16b(0x145)),this['st']['mainClass']=this['st']['el']['attr'](_0x4fc16b(0x149));}},'closeOnContentClick':!![],'midClick':!![]});}),$(_0x298251(0x17e))[_0x298251(0x208)](function(){var _0x51db6e=_0x298251;$(this)[_0x51db6e(0x189)](_0x51db6e(0x1ce));}),$('.pageBody\x20a:has(img)')[_0x298251(0x208)](function(){$(this)['addClass']('lightbox');}),$('.gallery')[_0x298251(0x208)](function(){var _0x18d903=_0x298251;$(this)[_0x18d903(0x1b9)]({'delegate':_0x18d903(0x14c),'type':_0x18d903(0x219),'preload':[0x1,0x2],'verticalFit':![],'gallery':{'enabled':!![]},'closeOnContentClick':!![],'midClick':!![]});}),$(document)[_0x298251(0x1c4)](function(){var _0x5d4d92=_0x298251;$(_0x5d4d92(0x1a5))[_0x5d4d92(0x1b9)]({'type':'iframe','mainClass':_0x5d4d92(0x173),'preloader':![],'fixedContentPos':![]});}),$(_0x298251(0x194))['on']('click',function(){var _0x565ec5=_0x298251;$(_0x565ec5(0x20c))[_0x565ec5(0x189)](_0x565ec5(0x1ea));var _0x3d3ada=$(this)['attr']('data-title'),_0x324e4c=$(this)[_0x565ec5(0x16f)](_0x565ec5(0x206));$(_0x324e4c)[_0x565ec5(0x189)](_0x565ec5(0x1cc)),$(_0x324e4c)[_0x565ec5(0x1e1)](_0x565ec5(0x18f))[_0x565ec5(0x167)](_0x3d3ada);if($(this)['attr']('data-img')!=null){var _0x133772=$(this)['attr'](_0x565ec5(0x1eb));$(_0x324e4c)[_0x565ec5(0x1e1)](_0x565ec5(0x1cb))['show'](),$(_0x324e4c)['find'](_0x565ec5(0x1cb))[_0x565ec5(0x16f)](_0x565ec5(0x17a),_0x133772);}if($(this)[_0x565ec5(0x16f)](_0x565ec5(0x1bb))!=null){var _0x30a7e6=$(this)['attr'](_0x565ec5(0x1bb));$(_0x324e4c)['find']('.wrap')[_0x565ec5(0x16f)](_0x565ec5(0x12b),_0x565ec5(0x13b)+_0x30a7e6+_0x565ec5(0x158));}if($(this)[_0x565ec5(0x16f)](_0x565ec5(0x1ff))!=null){var _0x52d39b=$(this)[_0x565ec5(0x16f)](_0x565ec5(0x1ff));$(_0x324e4c)['find'](_0x565ec5(0x156))[_0x565ec5(0x228)](),$(_0x324e4c)[_0x565ec5(0x1e1)](_0x565ec5(0x156))[_0x565ec5(0x167)](_0x52d39b);}}),$(_0x298251(0x127))['on']('click',function(){var _0x263354=_0x298251;$(_0x263354(0x20c))[_0x263354(0x133)](_0x263354(0x1ea)),$(this)[_0x263354(0x16b)](_0x263354(0x1fd))['removeClass'](_0x263354(0x1cc));}),$(document)[_0x298251(0x1aa)](function(_0x64a712){var _0x310229=_0x298251;_0x64a712['key']===_0x310229(0x21e)&&$(_0x310229(0x127))[_0x310229(0x124)](_0x310229(0x12c));});if(pageMode!=_0x298251(0x205)){var audio=document[_0x298251(0x14e)](_0x298251(0x162));audio['src']=_0x298251(0x181),audio[_0x298251(0x1df)]=_0x298251(0x1b0),sessionStorage[_0x298251(0x1b6)](_0x298251(0x227))===null&&audio[_0x298251(0x1d7)](_0x298251(0x14a),function(){setTimeout(function(){$('.waFix')['addClass']('show');},0x1770);},![]);}$(document)['on'](_0x298251(0x12c),'.waFix',function(){var _0x5687fb=_0x298251;$(this)['removeClass']('show'),sessionStorage[_0x5687fb(0x182)](_0x5687fb(0x227),![]);}),$(document)['on']('keypress',_0x298251(0x1ed),function(){var _0x25ebc0=_0x298251;event[_0x25ebc0(0x1bf)]===0xd&&$(this)[_0x25ebc0(0x16b)](_0x25ebc0(0x134))[_0x25ebc0(0x1e1)](_0x25ebc0(0x176))['trigger'](_0x25ebc0(0x12c));}),$('.formWA\x20.wajib')[_0x298251(0x208)](function(){var _0x93f584=_0x298251;title=$(this)[_0x93f584(0x16f)](_0x93f584(0x165)),label=$(this)[_0x93f584(0x16b)](_0x93f584(0x1f3)),$(_0x93f584(0x1e8)+title+_0x93f584(0x139))[_0x93f584(0x1ca)](label);}),$(document)['on'](_0x298251(0x1aa),_0x298251(0x184),function(){var _0x4dccac=_0x298251;$(this)[_0x4dccac(0x20e)]()!=''&&($(this)[_0x4dccac(0x133)](_0x4dccac(0x224)),$(this)[_0x4dccac(0x16b)](_0x4dccac(0x1f3))[_0x4dccac(0x1e1)](_0x4dccac(0x216))[_0x4dccac(0x133)](_0x4dccac(0x228)));}),$(document)['on'](_0x298251(0x1ac),_0x298251(0x215),function(){var _0x22864b=_0x298251;$(this)[_0x22864b(0x133)](_0x22864b(0x224)),$(this)[_0x22864b(0x16b)]('label')[_0x22864b(0x1e1)](_0x22864b(0x216))[_0x22864b(0x133)](_0x22864b(0x228));}),$(document)['on'](_0x298251(0x12c),_0x298251(0x15a),function(){return kirimWA($(this)['parents']('.poptamv')['attr']('id')),![];}),$(_0x298251(0x13c))[_0x298251(0x208)](function(){var _0x4253ea=_0x298251;$(this)[_0x4253ea(0x16f)](_0x4253ea(0x125),_0x4253ea(0x22d))[_0x4253ea(0x16f)]('placeholder',_0x4253ea(0x141))[_0x4253ea(0x133)](_0x4253ea(0x1ec))[_0x4253ea(0x189)]('hp'),$(this)[_0x4253ea(0x168)]('.item')[_0x4253ea(0x1e1)]('.icon')['removeClass']('ion-md-mail')[_0x4253ea(0x189)](_0x4253ea(0x225)),$(this)[_0x4253ea(0x168)](_0x4253ea(0x212))[_0x4253ea(0x1e1)]('.validasi\x20b')[_0x4253ea(0x1d0)]('No.\x20HP\x20(\x20Aktif\x20)..');}),$(_0x298251(0x202))[_0x298251(0x168)](_0x298251(0x212))['insertBefore'](_0x298251(0x159));function kirimWA(_0xb600fe){var _0x2ee23c=_0x298251,_0x27ae5e=!![];$('#'+_0xb600fe+'\x20.wajib')[_0x2ee23c(0x208)](function(){var _0x287001=_0x2ee23c;($['trim']($(this)[_0x287001(0x20e)]())==''||$['trim']($(this)[_0x287001(0x20e)]())==_0x287001(0x122))&&$(this)[_0x287001(0x189)](_0x287001(0x224));}),$('#'+_0xb600fe+_0x2ee23c(0x1a1))['each'](function(){var _0x48465d=_0x2ee23c;if($[_0x48465d(0x226)]($(this)[_0x48465d(0x20e)]())=='')return _0x27ae5e=![],$(this)[_0x48465d(0x16b)](_0x48465d(0x1f3))['find'](_0x48465d(0x216))['addClass'](_0x48465d(0x228)),$(this)[_0x48465d(0x224)](),![];else{if($[_0x48465d(0x226)]($(this)[_0x48465d(0x20e)]())==_0x48465d(0x122))return _0x27ae5e=![],$(this)[_0x48465d(0x16b)](_0x48465d(0x1f3))[_0x48465d(0x1e1)]('.validasi')['addClass'](_0x48465d(0x228)),![];}});if(_0x27ae5e===!![]){var _0x404e5b='',_0x14656e=_0x2ee23c(0x20b);/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i['test'](navigator[_0x2ee23c(0x1a2)])&&(_0x14656e='whatsapp://send');if(_0xb600fe==_0x2ee23c(0x1c5))var _0x10c9c6=tw_config[_0x2ee23c(0x21c)],_0x4221fe=tw_config[_0x2ee23c(0x1f6)],_0x556e30=0x3e,_0x500699=tw_config[_0x2ee23c(0x1a9)],_0x2daab5=$('#'+_0xb600fe+_0x2ee23c(0x1ab))[_0x2ee23c(0x1d0)](),_0x39c4da=$('#'+_0xb600fe+_0x2ee23c(0x1c9))[_0x2ee23c(0x20e)](),_0x137014=$('#'+_0xb600fe+_0x2ee23c(0x192))[_0x2ee23c(0x20e)](),_0x38a111=$('#'+_0xb600fe+_0x2ee23c(0x1a8))[_0x2ee23c(0x20e)](),_0x404e5b=_0x14656e+'?phone='+_0x556e30+_0x500699+'&text='+_0x4221fe+'\x20'+_0x10c9c6+_0x2ee23c(0x1f2)+_0x2ee23c(0x17b)+_0x39c4da+_0x2ee23c(0x1b2)+_0x2ee23c(0x161)+_0x38a111+_0x2ee23c(0x152)+_0x2ee23c(0x1ba)+_0x137014+_0x2ee23c(0x222)+_0x2ee23c(0x1fc)+location['href'];else{if(_0xb600fe==_0x2ee23c(0x183)){var _0x10c9c6=tw_config[_0x2ee23c(0x21c)],_0x4221fe=tw_config[_0x2ee23c(0x1f6)],_0x556e30=0x3e,_0x500699=tw_config[_0x2ee23c(0x1a9)],_0x2daab5=$('#'+_0xb600fe+_0x2ee23c(0x177))[_0x2ee23c(0x1d0)](),_0x116357=$('#'+_0xb600fe+_0x2ee23c(0x1b5))[_0x2ee23c(0x1d0)](),_0x318bc1=$('#'+_0xb600fe+'\x20.totalqty')[_0x2ee23c(0x1d0)](),_0x39c4da=$('#'+_0xb600fe+'\x20.nama')['val'](),_0x137014=$('#'+_0xb600fe+'\x20.hp')[_0x2ee23c(0x20e)](),_0x119072=$('#'+_0xb600fe+'\x20.jumlah')[_0x2ee23c(0x20e)](),_0x40c024=$('#'+_0xb600fe+_0x2ee23c(0x178))[_0x2ee23c(0x20e)](),_0x328f84=$('#'+_0xb600fe+_0x2ee23c(0x221))['val'](),_0x19594a=$('#'+_0xb600fe+_0x2ee23c(0x12a))['val']();if(tw_config[_0x2ee23c(0x22e)])var _0x404e5b=_0x14656e+_0x2ee23c(0x160)+_0x556e30+_0x500699+'&text='+_0x4221fe+'\x20'+_0x10c9c6+_0x2ee23c(0x1f2)+_0x2ee23c(0x131)+_0x2daab5+_0x2ee23c(0x207)+_0x116357+'%0A'+'—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—\x20—%0A%0A'+_0x318bc1+_0x2ee23c(0x152)+_0x2ee23c(0x1af)+_0x2ee23c(0x21d)+_0x328f84+_0x2ee23c(0x152)+_0x2ee23c(0x11c)+_0x40c024+_0x2ee23c(0x152)+_0x2ee23c(0x13a)+_0x39c4da+'*\x20(\x20'+_0x137014+_0x2ee23c(0x21f)+_0x2ee23c(0x1fc)+location['href'];else var _0x404e5b=_0x14656e+'?phone='+_0x556e30+_0x500699+_0x2ee23c(0x140)+_0x4221fe+'\x20'+_0x10c9c6+_0x2ee23c(0x1f2)+'saya\x20mau\x20beli\x20*'+_0x2daab5+_0x2ee23c(0x207)+_0x116357+_0x2ee23c(0x222)+_0x2ee23c(0x1af)+_0x318bc1+'%0A%0A'+_0x2ee23c(0x1af)+_0x2ee23c(0x21d)+_0x328f84+'%0A%0A'+_0x2ee23c(0x11c)+_0x40c024+_0x2ee23c(0x152)+_0x2ee23c(0x14f)+_0x19594a+_0x2ee23c(0x152)+_0x2ee23c(0x13a)+_0x39c4da+'*\x20(\x20'+_0x137014+_0x2ee23c(0x21f)+_0x2ee23c(0x1fc)+location[_0x2ee23c(0x206)];}else alert(_0x2ee23c(0x1a4));}$(this)[_0x2ee23c(0x16f)]('href',_0x404e5b);var _0x289a77=0x3c0,_0x44e0cb=0x21c,_0x2f7028=Number(screen[_0x2ee23c(0x14d)]/0x2-_0x289a77/0x2),_0x5896f2=Number(screen[_0x2ee23c(0x126)]/0x2-_0x44e0cb/0x2),_0x134a7b=window[_0x2ee23c(0x1cc)](this[_0x2ee23c(0x206)],'',_0x2ee23c(0x1ee)+_0x289a77+_0x2ee23c(0x1be)+_0x44e0cb+_0x2ee23c(0x1d2)+_0x5896f2+',\x20left='+_0x2f7028);return _0x134a7b[_0x2ee23c(0x224)](),![];}}$(document)['on']('click',_0x298251(0x138),function(){var _0x5d79d2=_0x298251,_0x515403=$(this)[_0x5d79d2(0x16f)](_0x5d79d2(0x206)),_0x16bd5f=$(this)[_0x5d79d2(0x16f)](_0x5d79d2(0x1fb)),_0x1e35f8=$(this)[_0x5d79d2(0x16f)](_0x5d79d2(0x16d));return _0x16bd5f==null&&(_0x16bd5f=0x3c0),_0x1e35f8==null&&(_0x1e35f8=0x21c),left=Number(screen[_0x5d79d2(0x14d)]/0x2-_0x16bd5f/0x2),tops=Number(screen[_0x5d79d2(0x126)]/0x2-_0x1e35f8/0x2),popupWindow=window[_0x5d79d2(0x1cc)](_0x515403,'',_0x5d79d2(0x1ee)+_0x16bd5f+_0x5d79d2(0x1be)+_0x1e35f8+_0x5d79d2(0x1d2)+tops+',\x20left='+left),popupWindow[_0x5d79d2(0x224)](),![];}),$(_0x298251(0x11d))['each'](function(){var _0x254310=_0x298251;$(this)['parent']('li')[_0x254310(0x189)]('dd'),$(this)[_0x254310(0x1fe)]('li')[_0x254310(0x121)](_0x254310(0x148)),$(this)[_0x254310(0x16f)](_0x254310(0x206),_0x254310(0x163));}),$(_0x298251(0x12d))[_0x298251(0x208)](function(){var _0x4fc703=_0x298251,_0x31a4bc=$(this)[_0x4fc703(0x1fe)]('li')['prev'](_0x4fc703(0x14b))['find']('ul');$(this)['parent']('li')[_0x4fc703(0x1ca)](_0x31a4bc);var _0x1af630=$(this)[_0x4fc703(0x1d0)]()[_0x4fc703(0x213)]('_','');$(this)['text'](_0x1af630);}),$('.LinkList\x20li.dd')[_0x298251(0x12c)](function(){var _0x1a6783=_0x298251;$(this)[_0x1a6783(0x1e1)](_0x1a6783(0x128))[_0x1a6783(0x1e7)](),$(this)[_0x1a6783(0x1c2)](_0x1a6783(0x20a));}),$(_0x298251(0x129))['click'](function(){var _0x2f0731=_0x298251;$(_0x2f0731(0x1a7))[_0x2f0731(0x1e7)]();}),$(_0x298251(0x1db))['click'](function(){var _0x2b74a6=_0x298251;$(_0x2b74a6(0x1d3))[_0x2b74a6(0x1e7)](),$('.tw_category\x20.Label')[_0x2b74a6(0x19f)](),$(_0x2b74a6(0x150))[_0x2b74a6(0x1e1)]('i')['toggleClass'](_0x2b74a6(0x1d6)),$(_0x2b74a6(0x150))[_0x2b74a6(0x1e1)]('i')['toggleClass'](_0x2b74a6(0x123)),$('.closeMenuCategory')[_0x2b74a6(0x157)]();}),$('.closeMenuCategory')['click'](function(){var _0x15d0b0=_0x298251;$(_0x15d0b0(0x1d3))[_0x15d0b0(0x19f)](),$(_0x15d0b0(0x1a7))[_0x15d0b0(0x19f)](),$(_0x15d0b0(0x150))[_0x15d0b0(0x1e1)]('i')['removeClass']('ion-ios-arrow-up'),$(_0x15d0b0(0x150))[_0x15d0b0(0x1e1)]('i')['addClass']('ion-ios-menu'),$('.closeMenuCategory')[_0x15d0b0(0x1d9)]();}),$(_0x298251(0x175))[_0x298251(0x12c)](function(){var _0x37f744=_0x298251;$(_0x37f744(0x17c))[_0x37f744(0x228)](),$(_0x37f744(0x22c))['focus']();}),$(_0x298251(0x19c))[_0x298251(0x12c)](function(){var _0x19cf42=_0x298251;$(_0x19cf42(0x17c))[_0x19cf42(0x19f)](),$(_0x19cf42(0x22c))[_0x19cf42(0x16a)]();}),$(_0x298251(0x151))[_0x298251(0x12c)](function(){var _0x5c9fd2=_0x298251;/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i[_0x5c9fd2(0x18d)](navigator[_0x5c9fd2(0x1a2)])&&$('.headerSearch\x20i.ion-ios-arrow-back')[_0x5c9fd2(0x124)]('click');;$(_0x5c9fd2(0x1b8))[_0x5c9fd2(0x124)](_0x5c9fd2(0x12c));}),$(document)['on'](_0x298251(0x1aa),_0x298251(0x22c),function(){var _0x1f8564=_0x298251;if(event['keyCode']===0xd){/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i[_0x1f8564(0x18d)](navigator[_0x1f8564(0x1a2)])?$(_0x1f8564(0x19c))[_0x1f8564(0x124)]('click'):$(_0x1f8564(0x151))['hide']();;}}),$(_0x298251(0x22c))[_0x298251(0x1aa)](function(){var _0xdcc9b4=_0x298251;$(this)[_0xdcc9b4(0x20e)]()!=''?($(_0xdcc9b4(0x151))['show'](),$(_0xdcc9b4(0x1b8))['show']()):($('.tw_search')[_0xdcc9b4(0x19f)](),$('.headerSearch\x20form\x20i.ion-md-close')[_0xdcc9b4(0x19f)]());}),$(_0x298251(0x1b8))[_0x298251(0x12c)](function(){var _0x3bb094=_0x298251;$('.tw_search')[_0x3bb094(0x19f)](),$(_0x3bb094(0x1b8))[_0x3bb094(0x19f)](),$(_0x3bb094(0x22c))[_0x3bb094(0x20e)]('');});sessionStorage[_0x298251(0x1b6)](_0x298251(0x20d))==null&&$(_0x298251(0x1dc))['fadeIn']();$(_0x298251(0x21b))[_0x298251(0x12c)](function(){var _0xb1315e=_0x298251;$(_0xb1315e(0x1dc))['hide'](),sessionStorage[_0xb1315e(0x182)](_0xb1315e(0x20d),![]);});/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i[_0x298251(0x18d)](navigator[_0x298251(0x1a2)])?$('a')[_0x298251(0x208)](function(){var _0xce9bce=_0x298251,_0x4a7b12=$(this)[_0xce9bce(0x16f)](_0xce9bce(0x206))+'?m=1',_0x54a79b=$(this)[_0xce9bce(0x16f)](_0xce9bce(0x206))+_0xce9bce(0x1a0);(_0x4a7b12==window[_0xce9bce(0x1f1)]||_0x54a79b==window[_0xce9bce(0x1f1)])&&$(this)[_0xce9bce(0x189)](_0xce9bce(0x20a));}):$('a')[_0x298251(0x208)](function(){var _0x1b25c2=_0x298251,_0x3ea7c6=$(this)['attr']('href');_0x3ea7c6==window[_0x1b25c2(0x1f1)]&&$(this)[_0x1b25c2(0x189)](_0x1b25c2(0x20a));});$(_0x298251(0x18e))[_0x298251(0x208)](function(){var _0x59d6ee=_0x298251,_0x5a73fe=$(this)[_0x59d6ee(0x20e)](),_0x40f662=_0x5a73fe[_0x59d6ee(0x213)](/<br\s?\/?>/g,'');$(this)[_0x59d6ee(0x20e)](_0x40f662),$(this)['on'](_0x59d6ee(0x12c),function(){var _0x2b6bb9=_0x59d6ee;$(this)[_0x2b6bb9(0x15e)]();}),$(this)[_0x59d6ee(0x16f)]('readonly',_0x59d6ee(0x1b1));});(tw_config[_0x298251(0x1ad)]!=null||tw_config['FBPixel_ID']!='')&&(!function(_0x28d515,_0x4a9284,_0x595b2b,_0x8faf43,_0x5b07fc,_0x5039f4,_0x160faa){var _0x30bfc5=_0x298251;if(_0x28d515['fbq'])return;_0x5b07fc=_0x28d515['fbq']=function(){var _0x3832b6=_0x1d93;_0x5b07fc[_0x3832b6(0x19b)]?_0x5b07fc[_0x3832b6(0x19b)][_0x3832b6(0x13f)](_0x5b07fc,arguments):_0x5b07fc[_0x3832b6(0x153)]['push'](arguments);};if(!_0x28d515[_0x30bfc5(0x172)])_0x28d515[_0x30bfc5(0x172)]=_0x5b07fc;_0x5b07fc[_0x30bfc5(0x11a)]=_0x5b07fc,_0x5b07fc[_0x30bfc5(0x195)]=!0x0,_0x5b07fc[_0x30bfc5(0x1c1)]='2.0',_0x5b07fc[_0x30bfc5(0x153)]=[],_0x5039f4=_0x4a9284[_0x30bfc5(0x14e)](_0x595b2b),_0x5039f4[_0x30bfc5(0x1f0)]=!0x0,_0x5039f4[_0x30bfc5(0x17a)]=_0x8faf43,_0x160faa=_0x4a9284[_0x30bfc5(0x1de)](_0x595b2b)[0x0],_0x160faa[_0x30bfc5(0x18a)]['insertBefore'](_0x5039f4,_0x160faa);}(window,document,_0x298251(0x1f9),_0x298251(0x1e3)),fbq('init',tw_config[_0x298251(0x1ad)]),pageMode!=_0x298251(0x205)&&(fbq(_0x298251(0x1d1),_0x298251(0x1fa)),$(_0x298251(0x1f8)+tw_config[_0x298251(0x1ad)]+_0x298251(0x209))[_0x298251(0x1ca)](_0x298251(0x20c))),$('.productPhotoWrapper\x20a')[_0x298251(0x208)](function(){var _0xedd5b5=_0x298251,_0x41ab22=$(this)[_0xedd5b5(0x16b)](_0xedd5b5(0x186))['attr']('data-price'),_0x45183c=$(this)[_0xedd5b5(0x16b)]('.itemPost')[_0xedd5b5(0x16f)](_0xedd5b5(0x229)),_0x318a01=$(this)[_0xedd5b5(0x16b)]('.itemPost')[_0xedd5b5(0x16f)]('id');$(this)[_0xedd5b5(0x12c)](function(){var _0x2828ff=_0xedd5b5;fbq(_0x2828ff(0x1d1),_0x2828ff(0x12f),{'value':_0x41ab22,'currency':_0x2828ff(0x220)});});}),$(_0x298251(0x1b7))[_0x298251(0x12c)](function(){var _0x4e3acd=_0x298251;fbq('track',_0x4e3acd(0x1e5));}),$(_0x298251(0x1c7))['each'](function(){var _0x323e44=_0x298251;$(this)['on'](_0x323e44(0x12c),function(){var _0x265bf9=_0x323e44,_0x39727d=rpToAngka($(_0x265bf9(0x1e9))['text']());fbq('track',_0x265bf9(0x15b),{'value':_0x39727d,'currency':_0x265bf9(0x220)});});}),$(_0x298251(0x16c))[_0x298251(0x12c)](function(){var _0x21cc64=_0x298251;fbq(_0x21cc64(0x1d1),_0x21cc64(0x1f7));}));var thx_message=_0x298251(0x223)+window[_0x298251(0x1f1)]['hostname'][_0x298251(0x170)]()+_0x298251(0x13e);pageMode!='related'&&(!localStorage[_0x298251(0x1b6)]('kr')?window['onload']=function(){var _0x1b55f6=_0x298251,_0x54764d=window['location'][_0x1b55f6(0x1d5)];$['getJSON']('https://member.kangrian.net/api/web-cek?prod_id=2&url='+_0x54764d,function(_0x46b9fd){var _0x57d29a=_0x1b55f6;console[_0x57d29a(0x210)]();if(_0x46b9fd[_0x57d29a(0x198)]==0xc8)localStorage[_0x57d29a(0x182)]('kr',0x1),console[_0x57d29a(0x210)](thx_message);else{var _0x3da8ba=_0x57d29a(0x1b3)+_0x54764d+_0x57d29a(0x180);$(_0x3da8ba)[_0x57d29a(0x1ca)](_0x57d29a(0x20c));}});}:console['log'](thx_message));
+﻿<script type='text/javascript'>
+      //<![CDATA[
+        function angkaToRp(angka) {
+          var rupiah = '';    
+          var angkarev = angka.toString().split('').reverse().join('');
+          for(var i = 0; i < angkarev.length; i++) if(i%3 == 0) rupiah += angkarev.substr(i,3)+'.';
+          return 'Rp. '+rupiah.split('',rupiah.length-1).reverse().join('');
+        }
+        /* alert(angkaToRp(10000000)); -> Rp 10.000.000 */
+
+        function rpToAngka(rupiah) {
+          return parseInt(rupiah.replace(/[^0-9]/g, ''), 10);
+        }
+        /* alert(rpToAngka("Rp 10.000.000")); -> 10000000 */
+
+      //]]>
+    </script>
+<script type='text/javascript'>
+        //<![CDATA[
+        /* jsindexNhome */
+
+        /* Photo -------------------------------------------------------------------- */
+
+        $('.itemPost').each(function(){
+          $(this).find('.productPhoto').prepend('<div class="productPhotoWrapper"></div>');
+          var productPhotoUrl = $(this).find('.productPhoto > a:first').attr('href'),
+              productPhotoUrlResize = productPhotoUrl.replace("s1600","w250-h313-c"),
+              productURL = $(this).find(".productTitle a").attr('href');
+          $(this).find('.productPhotoWrapper').append('<a href="'+productURL+'" class="lazy-bg" data-src="'+productPhotoUrlResize+'"></a>');
+
+          var productPhotoUrl2 = $(this).find('.productPhoto > a:first').next().attr('href');
+          if(productPhotoUrl2 != null) {
+            var productPhotoUrlResize2 = productPhotoUrl2.replace("s1600","w250-h313-c");
+            $(this).find('.productPhotoWrapper').append('<a href="'+productURL+'" class="lazy-bg" data-src="'+productPhotoUrlResize2+'"></a>');
+          }
+          $(this).find('.productPhoto > a').remove();
+          var stock = $(this).find('.productDetail').data('stock');
+          if(stock === 'off') {
+            $(this).find('.productPhoto').append('<div class="ribbon"><small class="text">'+tw_config.stock_habis+'</small></div>');
+          }
+        });
+        /* jsindexNhome */
+        //]]>
+      </script>
+<script type='text/javascript'>
+        //<![CDATA[
+        /* jshome */
+
+        /* slideHome  -------------------------------------------------------------------- */
+
+        $('#slideHome .owl-carousel').owlCarousel({
+          loop:true,
+          autoplay:true,
+          autoplayTimeout:4000,
+          autoplayHoverPause:true,
+          margin:0,
+          nav:false,
+          autoHeight:true,
+          items:1
+        });
+
+        /* jshome */
+        //]]>
+      </script>
+<script type='text/javascript'>
+      //<![CDATA[
+      /* jsglobal */
+
+    /* JS Navigasi -------------------------------------------------------------------- */
+        $(window).scroll(function() {
+            $('section').each(function() {
+                var id = $(this).attr('id');
+                if ($(window).scrollTop() >= $('#' + id).offset().top - $(window).height() / 2) {
+                    $('.menu a').removeClass('active');
+                    $('.menu a.' + id).addClass('active');
+                } else {
+                    $('.menu a.' + id).removeClass('active');
+                }
+            });
+
+            if ($(window).scrollTop() >= $('html').offset().top + 1) {
+                $('.navigasi').addClass('toggle');
+            } else {
+                $('.navigasi').removeClass('toggle');
+            }
+            var timer = null;
+            window.addEventListener('scroll', function() {
+                if(timer !== null) {
+                    clearTimeout(timer);        
+                }
+                timer = setTimeout(function() {
+                    $('.navigasi').removeClass('toggle');
+                }, 3000);
+            }, false);
+        });
+
+        /* slideReview  loopPlay -------------------------------------------------------------------- */
+          $(window).bind('load',function(){
+          $('.slideReview .owl-carousel').owlCarousel({
+            loop: true,
+            center: true,
+            autoplay: true,
+            autoplayTimeout: 4000,
+            autoplayHoverPause: true,
+            nav: false,
+            autoHeight: false,
+            items:3,
+            responsive: {
+              // breakpoint from 0 up
+              0: {
+                items: 1,
+                stagePadding: 60,
+                margin:10,
+              },
+              // breakpoint from 480 up
+              768: {
+                items: 2,
+              },
+              // breakpoint from 768 up
+              1068: {
+                margin: 20,
+                items: 3,
+              }
+            }
+          });
+        });
+
+        /* brandSection  loopPlay --------------------------------------------------------- */
+        $(window).bind('load',function(){
+        $('.brand_logo .owl-carousel').owlCarousel({
+          loop: true,
+          center: true,
+          autoplay: true,
+          autoplayTimeout: 4000,
+          smartSpeed: 5000,
+          autoplayHoverPause: false,
+          nav: false,
+          dots: false,
+          autoHeight: false,
+          margin: 30,
+          responsive: {
+            // breakpoint from 0 up
+            0: {
+              items: 2,
+              center: false,
+             },
+            // breakpoint from 480 up
+            768: {
+              items: 5,
+             }
+            }
+          });
+        });
+
+    /* embedYoutube2  -------------------------------------------------------------------- */
+    /* --- Kualitas Thumbnail ---
+    http://img.youtube.com/vi/ID-VIDEO/0.jpg (480x360px)
+    http://img.youtube.com/vi/ID-VIDEO/1.jpg (120x90px)
+    http://img.youtube.com/vi/ID-VIDEO/2.jpg (120x90px)
+    http://img.youtube.com/vi/ID-VIDEO/3.jpg (120x90px)
+    http://img.youtube.com/vi/ID-VIDEO/maxresdefault.jpg (1920x1080px)
+    http://img.youtube.com/vi/ID-VIDEO/sddefault.jpg (640x480px)
+    http://img.youtube.com/vi/ID-VIDEO/hqdefault.jpg (480x360px)
+    http://img.youtube.com/vi/ID-VIDEO/mqdefault.jpg (320x180px)
+    http://img.youtube.com/vi/ID-VIDEO/default.jpg (120x90px)
+    */
+
+    (function(){
+    
+    //select all elements with class .yt-lazyload
+    var youtube = document.querySelectorAll('.yt-lazyload');
+    
+    //for each element execute:
+    for(var i=0; i<youtube.length; i++){
+        
+        //VARIABLES
+        var data_id     = youtube[i].dataset.id,
+            data_random = youtube[i].dataset.random, //TO DO: In future versions - change to data_thumb [breaking change!!!] [??????]
+            data_alt    = youtube[i].dataset.alt,
+            yt_image    = new Image(),
+            yt_playbtn  = document.createElement('div'),
+            yt_logo     = document.createElement('a');
+        
+        //image - thumbnail
+        yt_image.classList.add('yt-lazyload-img');
+        yt_image.src = 'https://img.youtube.com/vi/'+data_id+'/'+data_random+'.jpg';
+        yt_image.alt = ''+data_alt+'';
+        
+        //load thumbail after they are loaded
+        yt_image.addEventListener('load',function(){
+            youtube[i].appendChild(yt_image);
+        }(i));
+                
+        //play btn
+        yt_playbtn.classList.add('yt-lazyload-playbtn');
+        youtube[i].appendChild(yt_playbtn);
+                
+        //logo link
+        //TO DO: In future versions - if data-logo="0" do not create this [??????]
+        yt_logo.classList.add('yt-lazyload-logo');
+        yt_logo.href    = 'https://youtu.be/' + data_id;
+        yt_logo.target  = '_blank';
+        yt_logo.rel     = 'noreferrer';
+        youtube[i].appendChild(yt_logo);
+        
+        //create iframe onclick play-btn
+        youtube[i].querySelector('.yt-lazyload-playbtn').addEventListener('click',function(){
+            var yt_container = this.parentElement,
+                yt_iframe    = document.createElement('iframe');
+                yt_iframe.src = 'https://www.youtube.com/embed/' + yt_container.dataset.id + '?autoplay=1&modestbranding=1';
+                yt_iframe.setAttribute('allow','accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture');
+                yt_iframe.setAttribute('allowfullscreen','');
+                yt_container.appendChild(yt_iframe);
+          });
+        }
+      })();
+
+      $('.quickedit').removeAttr('onclick');
+      $('.quickedit').removeAttr('target');
+      $('.quickedit').addClass('popWin');
+      $('.quickedit').attr('data-popWidth',600);
+      $('.quickedit img').remove();
+      $('.quickedit').append('<i class="icon ion-md-create"></i>');
+
+      var arr_socmed = tw_socmed;
+      $.each(arr_socmed, function(key, value) {
+        if(key != null && value != '') {
+          $('#follow .followBtn, .followBtn2, .followBtn-nav').append('<a class="popWin '+key+'" data-popWidth="1280" href="'+value+'"><i class="icon ion-logo-'+key+'"></i></a>');
+        //$('#follow .followBtn, .followBtn2, .followBtn-nav').append('<a class="popWin '+key+'" data-popWidth="1280" href="'+value+'"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#'+key+'"></use></svg></a>');
+        }
+      });
+
+      //$(document.body).append('<div id="page-loader"></div>');
+      $(document).ready(function() {
+        $('#page-loader').fadeIn(200).delay(500).fadeOut(300);
+      });
+      $(window).on('load', function() {
+        $('.poptamv').removeClass('open');
+        $.magnificPopup.close();
+      });
+      $(window).bind('load',function(){
+        $('iframe').each(function(){
+          var url = $(this).attr('data-src');
+          $(this).attr('src',url);
+          $(this).removeAttr('data-src');
+        });
+      });
+      $('img').each(function(){
+        var url = $(this).attr('data-src');
+        $(this).attr('src',url);
+        $(this).removeAttr('data-src');
+      });
+      $('.lazy-bg').each(function(){
+        var url = $(this).attr('data-src');
+        $(this).attr('style','background-image:url("'+ url +'");');
+        $(this).removeAttr('data-src');
+        $(this).removeClass('lazy-bg');
+      });
+      $(window).on('scroll', function() {
+        $('header').each(function(){
+          if ($(window).scrollTop() >= 1 ) {
+            $(this).addClass('onScroll');
+          } else {
+            $(this).removeClass('onScroll');
+          }
+        });
+      });
+
+      $(".productTitle").each(function(){
+        var detail = $(this).parents('.itemPost').find('.productDetail');
+        $(this).prependTo(detail);
+      });
+
+      $('.productPrice').each(function(){
+        var price = $(this).text(),
+            discount = $(this).data('discount-percent'),
+            discount_price = price - price * discount / 100;
+
+        var realPrice = '';
+        $(this).after( "<span class='productPrice_after'>Test</span>" );
+        if(discount != '') {
+          $(this).next('.productPrice_after').html('<small><span>-'+discount+'%</span><s>'+angkaToRp(price)+'</s></small><b>'+angkaToRp(discount_price)+'</b>');
+          var realPrice = discount_price;
+        } else {
+          $(this).next('.productPrice_after').html('<b>'+angkaToRp(price)+'</b>');
+          var realPrice = price;
+        }
+        $(this).attr('data-selected',realPrice);
+        $(this).parents('.itemPost').attr('data-price',realPrice);
+      });
+
+      /* Lightbox  -------------------------------------------------------------------- */
+
+      $('.lightbox').each(function() {
+        $(this).magnificPopup({
+          type: 'image',
+          verticalFit: false,
+          gallery: {
+            enabled:true
+          },
+          callbacks: {
+            beforeOpen: function() {
+              // just a hack that adds mfp-anim class to markup 
+               this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
+               this.st.mainClass = this.st.el.attr('data-effect');
+            }
+          },
+          closeOnContentClick: true,
+          midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
+        });
+      });
+      $('a[href*="bp.blogspot.com"]').each(function() {
+        $(this).addClass('lightbox');
+      });
+      $('.pageBody a:has(img)').each(function() {
+        $(this).addClass('');
+      });
+      $('.gallery').each(function() { // the containers for all your galleries
+        $(this).magnificPopup({
+          delegate: 'a.lightbox', // the selector for gallery item
+          type: 'image',
+          preload: [1,2],
+          verticalFit: false,
+          gallery: {
+            enabled:true
+          },
+          closeOnContentClick: true,
+          midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
+        });
+      });
+      $(document).ready(function() {
+        $('.lightframe').magnificPopup({
+            // disableOn: 700,
+            type: 'iframe',
+            mainClass: 'mfp-fade',
+            preloader: false,
+
+            fixedContentPos: false
+          });
+      });
+
+    /* Lightbox viewOrderNotif  -------------------------------------------------------------------- */
+
+      $('a[href*="googleusercontent.com"], a[href*="bp.blogspot.com"], .postingPostBody a:has(img)').each(function() {
+        $(this).addClass('lightbox');
+      });
+      $('.postingPostBody').each(function() {
+        $(this).magnificPopup({
+          delegate: 'a.lightbox',
+          type: 'image',
+          preload: [1,2],
+          verticalFit: false,
+          gallery: {
+            enabled:true
+          },
+          closeOnContentClick: true,
+          midClick: true
+        });
+      });
+      $(window).bind('load', function() {
+        $('.slideReview, .orderNotif').each(function() {
+          $(this).magnificPopup({
+            delegate: 'a.lightbox',
+            type: 'image',
+            preload: [1,2],
+            verticalFit: false,
+            gallery: {
+              enabled:true
+            },
+            closeOnContentClick: true,
+            midClick: true
+          });
+        });
+        $('.lightframe').magnificPopup({
+          // disableOn: 700,
+          type: 'iframe',
+          mainClass: 'mfp-fade',
+          preloader: false,
+          fixedContentPos: false
+        });
+      });
+
+     /* contactAgent load -------------------------------------------------------------------- */
+
+            $(window).on("click", function() {
+            $("#bwa .bwa-box").hide();
+            $("#bwa .bwa-btn").fadeIn()
+        });
+        $("#bwa").each(function() {
+            $(this).on("click", function(f) {
+                f.stopPropagation()
+            });
+            var a = $(this).attr("data-link");
+            var e = $(this).attr("data-nomor");
+            var d = $(this).attr("data-logo");
+            var c = $(this).attr("data-nama");
+            var b = $(this).attr("data-pesan");
+            var title_adm = $(this).attr("data-title-admin")
+            var link_adm = $(this).attr("data-link-admin");
+            var no_adm = $(this).attr("data-nomor-admin");
+            var img_adm = $(this).attr("data-foto-admin");
+            var nm_adm = $(this).attr("data-nama-admin");
+            var psn_adm = $(this).attr("data-pesan-admin");
+            var link_cs = $(this).attr("data-link-cs");
+            var title_cs = $(this).attr("data-title-cs")
+            var no_cs = $(this).attr("data-nomor-cs");
+            var img_cs = $(this).attr("data-foto-cs");
+            var nm_cs = $(this).attr("data-nama-cs");
+            var psn_cs = $(this).attr("data-pesan-cs");
+            var title_ss = $(this).attr("data-title-ss")
+            var link_ss = $(this).attr("data-link-ss");
+            var no_ss = $(this).attr("data-nomor-ss");
+            var img_ss = $(this).attr("data-foto-ss");
+            var nm_ss = $(this).attr("data-nama-ss");
+            var psn_ss = $(this).attr("data-pesan-ss");
+            $(this).html('<a class="bwa-btn waFix kanan"><i class="wa"><svg xmlns="http://www.w3.org/2000/svg" class="logo-wa" width="512" height="512" viewBox="0 0 512 512"><path d="M414.73,97.1A222.14,222.14,0,0,0,256.94,32C134,32,33.92,131.58,33.87,254A220.61,220.61,0,0,0,63.65,365L32,480l118.25-30.87a223.63,223.63,0,0,0,106.6,27h.09c122.93,0,223-99.59,223.06-222A220.18,220.18,0,0,0,414.73,97.1ZM256.94,438.66h-.08a185.75,185.75,0,0,1-94.36-25.72l-6.77-4L85.56,427.26l18.73-68.09-4.41-7A183.46,183.46,0,0,1,71.53,254c0-101.73,83.21-184.5,185.48-184.5A185,185,0,0,1,442.34,254.14C442.3,355.88,359.13,438.66,256.94,438.66ZM358.63,300.47c-5.57-2.78-33-16.2-38.08-18.05s-8.83-2.78-12.54,2.78-14.4,18-17.65,21.75-6.5,4.16-12.07,1.38-23.54-8.63-44.83-27.53c-16.57-14.71-27.75-32.87-31-38.42s-.35-8.56,2.44-11.32c2.51-2.49,5.57-6.48,8.36-9.72s3.72-5.56,5.57-9.26.93-6.94-.46-9.71-12.54-30.08-17.18-41.19c-4.53-10.82-9.12-9.35-12.54-9.52-3.25-.16-7-.2-10.69-.2a20.53,20.53,0,0,0-14.86,6.94c-5.11,5.56-19.51,19-19.51,46.28s20,53.68,22.76,57.38,39.3,59.73,95.21,83.76a323.11,323.11,0,0,0,31.78,11.68c13.35,4.22,25.5,3.63,35.1,2.2,10.71-1.59,33-13.42,37.63-26.38s4.64-24.06,3.25-26.37S364.21,303.24,358.63,300.47Z" style="fill-rule:evenodd"></path></svg><span class="count">1</span></i><span class="info"><i class="icon ion-md-done-all"></i><b>Hai</b>, butuh bantuan?</span></a>\
+<!-- a class="bwa-btn"><figure></figure><span class="bwa-txt">' + b + '</span></a -->\
+        <div class="bwa-box">\
+        <div class="bwa-header">\
+        <span class="bwa-logo" title="' + c + '"><figure></figure></span>\
+        <div class="bwa-title">\
+        <div class="bwa-wrap">\
+        <span title="' + c + '"><b>' + c + '</b></span>\
+        </div>\
+        </div>\
+        <a class="bwa-close"><svg id="close_btn" version="1.1" viewBox="0 0 512.011 512.011" x="0px" xml:space="preserve" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" y="0px"><path d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0  s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z" shape-rendering="optimizeQuality"></path></svg></a>\
+        </div>\
+        <div class="bwa-chat"><span>' + psn_adm + '</span></div>\
+        <div class="bwa-wrapper-contact">\
+        <div class="bwa-contact" id="bwa-adm">\
+        <a href="' + link_adm + '" class="bwa-ava-contact tombol-wa" data-title="'+ title_adm +'" title="' + nm_adm + '"><figure></figure></a>\
+        <div class="bwa-bio-contact">\
+        <div class="bwa-wrap-contact">\
+        <span><a href="' + link_adm + '" class="tombol-wa" data-title="'+ title_adm +'" title="' + nm_adm + '"><b>' + nm_adm + '</b></a></span><br/><small>Online</small>\
+        </div>\
+        </div>\
+        </div>\
+        <!-- div class="bwa-contact" id="bwa-cs">\
+        <a href="' + link_cs + '" class="bwa-ava-contact tombol-wa contact-off" title="' + nm_cs + '"><figure></figure></a>\
+        <div class="bwa-bio-contact">\
+        <div class="bwa-wrap-contact">\
+        <span><a href="' + link_cs + '" class="tombol-wa contact-off" title="' + nm_cs + '"><b>' + nm_cs + '</b></a></span><br/><small class="contact-off">Offline</small>\
+        </div>\
+        </div>\
+        </div -->\
+        <div class="bwa-contact" id="bwa-ss">\
+        <a href="' + link_ss + '" class="bwa-ava-contact tombol-wa tombol-wa contact-off" data-title="'+ title_ss +'" title="' + nm_ss + '"><figure></figure></a>\
+        <div class="bwa-bio-contact">\
+        <div class="bwa-wrap-contact">\
+        <span><a href="' + link_ss + '" class="tombol-wa contact-off" data-title="'+ title_ss +'" title="' + nm_ss + '"><b>' + nm_ss + '</b></a></span><br/><small class="contact-off">Offline</small>\
+        </div>\
+        </div>\
+        </div>\
+        </div>\
+        <div class="bwa-footer"><small>⚡<i><b>Fast Respond</b></i> : Senin s/d. Sabtu | 08:00–16:00 WIB</small></div>\
+        </div>');
+            $(window).on("load", function() {
+                setTimeout(function() {
+                    $(".bwa-txt").addClass("muncul")
+                }, 2000);
+                $("#bwa .bwa-contact a").addClass("poptamv-btn");
+                $("#bwa .bwa-wrap-contact a").addClass("poptamv-btn");
+                $("#bwa figure").css("background-image", "url(" + d + ")");
+                $("#bwa-adm figure").css("background-image", "url(" + img_adm + ")");
+                $("#bwa-cs figure").css("background-image", "url(" + img_cs + ")");
+                $("#bwa-ss figure").css("background-image", "url(" + img_ss + ")");
+                $("#bwa .bwa-chat").css("background-image", "url(https://2.bp.blogspot.com/-Pa5-J1otcyk/Xor6aa8UuWI/AAAAAAAAHVY/y_DODK8WW6M-LdSuEcC2qFs-OuHib7D4QCK4BGAYYCw/s1600/wa_bg.png)")
+            });
+            $(".bwa-btn", this).on("click", function(f) {
+                f.preventDefault();
+                f.stopPropagation();
+                $(this).hide();
+                $("span", this).hide();
+                $(".bwa-box").fadeIn(200);
+                $(".bwa-box .bwa-act input").focus()
+            });
+            $(".bwa-box .bwa-header a.bwa-close", this).on("click", function(f) {
+                f.preventDefault();
+                $(".bwa-box").hide();
+                $(".bwa-btn").fadeIn(200)
+            });
+            $(".bwa-act", this).on("submit", function(h) {
+                h.preventDefault();
+                var l = $("input", this).val();
+                var g = "https://web.whatsapp.com/send";
+                if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                    g = "https://api.whatsapp.com/send"
+                }
+                var f = g + "?phone=62" + e + "&text=" + l + "%0A%0Avia. " + location.href;
+                var k = prompt("Masukan Nama Lengkap :", "");
+                if (k == null || k == "") {
+                    $("input", this).focus();
+                    return false
+                } else {
+                    function j(m) {
+                        return m.replace(/\w\S*/g, function(n) {
+                            return n.charAt(0).toUpperCase() + n.substr(1).toLowerCase()
+                        })
+                    }
+                    $(this).trigger("reset");
+                    f = g + "?phone=62" + e + "&text=Halo " + j(c) + ", saya *" + j(k) + "*.%0A%0A" + l + "%0A%0Avia. " + location.href
+                }
+                window.location.href = f
+            })
+        });
+
+      /* cForm-WA  -------------------------------------------------------------------- */
+
+      $('.poptamv-btn, .tombol-wa').on('click', function() {
+        $('body').addClass('hideScroll');
+        var title = $(this).attr('data-title');
+        var target = $(this).attr('href');
+        $(target).addClass('open');
+        $(target).find('.title-content').html(title);
+        if($(this).attr('data-img') != null) {
+          var img = $(this).attr('data-img');
+          $(target).find('.content img').show();
+          $(target).find('.content img').attr('src',img);
+        }
+        if($(this).attr('data-width') != null) {
+          var width = $(this).attr('data-width');
+          $(target).find('.wrap').attr('style','max-width:'+width+'px!important;')
+        }
+        if($(this).attr('data-tooltip') != null) {
+          var tooltip = $(this).attr('data-tooltip');
+          $(target).find('.poptamv-wrap').show();
+          $(target).find('.poptamv-wrap').html(tooltip)
+        }
+      });
+
+      $('.poptamv .closeTamv').on('click', function() {
+        $('body').removeClass('hideScroll');
+        $(this).parents('.poptamv').removeClass('open');
+      });
+
+      $(document).keyup(function(e) {
+        if (e.key === "Escape") {
+          $('.poptamv .closeTamv').trigger('click');
+        }
+      });
+
+      if(pageMode != 'related') {
+        $(window).on('load',function(){
+          setTimeout(function() {
+              $('.waFix').addClass('show');
+          }, 6000);
+        });
+       }
+      $(document).on('click','.waFix', function(){
+        $(this).removeClass('show');
+      });
+
+      $(document).on('keypress','.formWA input, .formWA textarea', function() {
+        if (event.keyCode === 13) {
+          $(this).parents(".formWA").find('.submit').trigger('click');
+        }
+      });
+
+      $('.formWA .wajib').each(function() {
+        title = $(this).attr('placeholder');
+        label = $(this).parents('label');
+        $('<span class="validasi"><b>' + title + '</b> (dibutuhkan)</span>').appendTo(label);
+      });
+
+      $(document).on('keyup','.formWA .wajib', function() {
+        if ($(this).val() != '') {
+          $(this).removeClass('focus');
+          $(this).parents('label').find('.validasi').removeClass('show');
+        }
+      });
+
+      $(document).on('change','.formWA select', function() {
+        $(this).removeClass('focus');
+        $(this).parents('label').find('.validasi').removeClass('show');
+      });
+
+      $(document).on('click','.formWA .submit', function(){
+        kirimWA($(this).parents('.poptamv').attr('id'));
+        return false;
+      });
+
+      $(document).on('change','.formWA select.informasi', function() {
+        var infooo = $(this).val();
+        if(infooo == 'Teman') {
+          $('.formWA .nama_teman_wrap').slideDown();
+          $('.formWA .nama_teman_wrap .nama_teman').addClass('wajib');
+        } else {
+          $('.formWA .nama_teman_wrap').slideUp();
+          $('.formWA .nama_teman_wrap .nama_teman').removeClass('wajib');
+        }
+      });
+
+      $(document).on('change','.formWA select.refer_arisan', function() {
+        var infooo = $(this).val();
+        if(infooo == 'Reseller') {
+          $('.formWA .nama_reseller_wrap').slideDown();
+          $('.formWA .nama_reseller_wrap .nama_reseller').addClass('wajib');
+        } else {
+          $('.formWA .nama_reseller_wrap').slideUp();
+          $('.formWA .nama_reseller_wrap .nama_reseller').removeClass('wajib');
+        }
+      });
+
+        $(document).on('change','.formWA select.refer_arisan', function() {
+        var infooo = $(this).val();
+        if(infooo == 'Mitra EPC') {
+          $('.formWA .nama_epc_wrap').slideDown();
+          $('.formWA .nama_epc_wrap .nama_epc').addClass('wajib');
+        } else {
+          $('.formWA .nama_epc_wrap').slideUp();
+          $('.formWA .nama_epc_wrap .nama_epc').removeClass('wajib');
+        }
+      });
+
+        $(document).on('change','.formWA select.refer_arisan', function() {
+        var infooo = $(this).val();
+        if(infooo == 'Non-Anggota') {
+          $('.formWA .nama_anggota_wrap').slideDown();
+          $('.formWA .nama_anggota_wrap .nama_anggota').addClass('wajib');
+        } else {
+          $('.formWA .nama_anggota_wrap').slideUp();
+          $('.formWA .nama_anggota_wrap .nama_anggota').removeClass('wajib');
+        }
+      });
+
+      function kirimWA(id) {
+
+        var validasi = true;
+
+        $('#'+id+' .wajib').each(function() {
+          if ($.trim($(this).val()) == '' || $.trim($(this).val()) == 'default') {
+            $(this).addClass('focus');
+          }
+        });
+        $('#'+id+' .wajib').each(function() {
+
+          if ($.trim($(this).val()) == '') {
+
+            validasi = false;
+
+            $(this).parents('label').find('.validasi').addClass('show');
+            $(this).focus();
+            return false;
+          } else if ($.trim($(this).val()) == 'default') {
+
+            validasi = false;
+
+            $(this).parents('label').find('.validasi').addClass('show');
+            return false;
+          }
+        });
+
+        if (validasi === true) {
+
+          var parameter = '';
+          var url_wa = 'https://web.whatsapp.com/send';
+          if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            url_wa = 'whatsapp://send';
+          }
+          if (id == 'kirimWhatsApp') {
+
+            var nama_admin = tw_config.nama_admin,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_whatsapp,
+                judul = $('#'+id+' .title-content').text(),
+                nama = $('#'+id+' .nama').val(),
+                nohp = $('#'+id+' .nohp').val(),
+                informasi = $('#'+id+' .informasi').val(),
+                nama_teman = $('#'+id+' .nama_teman').val(),
+                pesan = $('#'+id+' .pesan').val();
+
+            var if_teman = '';
+            if(informasi == 'Teman') {
+              if_teman = '*' + informasi + '* ( ' + nama_teman + ' )';
+            } else {
+              if_teman = '*' + informasi + '*';
+            }
+
+            var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
+                pesan_salam + ' ' + nama_admin + '..%0A' +
+                'Saya *' + nama + '*, tau *Toko Smart Hafiz Talking Doll* dari '+if_teman+'.%0A%0A' +
+                '💬 ' + pesan + '%0A%0A' +
+                'No. HP Aktif : '+ nohp +'%0A%0A' +
+                '_via link_ : ' + location.href;
+          }
+          if (id == 'kirimCS') {
+
+            var nama_admin = tw_config.nama_cs,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_wa_cs,
+                judul = $('#'+id+' .title-content').text(),
+                nama = $('#'+id+' .nama').val(),
+                nohp = $('#'+id+' .nohp').val(),
+                informasi = $('#'+id+' .informasi').val(),
+                nama_teman = $('#'+id+' .nama_teman').val(),
+                pesan = $('#'+id+' .pesan').val();
+
+            var if_teman = '';
+            if(informasi == 'Teman') {
+              if_teman = '*' + informasi + '* ( ' + nama_teman + ' )';
+            } else {
+              if_teman = '*' + informasi + '*';
+            }
+
+            var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
+                pesan_salam + ' ' + nama_admin + '..%0A' +
+                'Saya *' + nama + '*, tau *Toko Smart Hafiz Talking Doll* dari '+if_teman+'.%0A%0A' +
+                '💬 ' + pesan + '%0A%0A' +
+                'No. HP Aktif : '+ nohp +'%0A%0A' +
+                '_via link_ : ' + location.href;
+          }
+          if (id == 'kirimSS') {
+
+            var nama_admin = tw_config.nama_ss,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_wa_ss,
+                judul = $('#'+id+' .title-content').text(),
+                nama = $('#'+id+' .nama').val(),
+                nohp = $('#'+id+' .nohp').val(),
+                informasi = $('#'+id+' .informasi').val(),
+                nama_teman = $('#'+id+' .nama_teman').val(),
+                pesan = $('#'+id+' .pesan').val();
+
+            var if_teman = '';
+            if(informasi == 'Teman') {
+              if_teman = '*' + informasi + '* ( ' + nama_teman + ' )';
+            } else {
+              if_teman = '*' + informasi + '*';
+            }
+
+            var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
+                pesan_salam + ' ' + nama_admin + '..%0A' +
+                'Saya *' + nama + '*, tau *Toko Smart Hafiz Talking Doll* dari '+if_teman+'.%0A%0A' +
+                '💬 ' + pesan + '%0A%0A' +
+                'No. HP Aktif : '+ nohp +'%0A%0A' +
+                '_via link_ : ' + location.href;
+          }
+          if (id == 'ulasWhatsApp') {
+            var nama_admin = tw_config.nama_admin,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_whatsapp,
+                judul = $('#'+id+' .title-content').text(),
+                nama = $('#'+id+' .nama').val(),
+                rating = $('#'+id+' .rating').val(),
+                review = $('#'+id+' .review').val();
+
+            var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
+                pesan_salam + ' ' + nama_admin + ', saya mau ikut memberikan ulasan nih.%0A%0A' +
+                '*Nama*  : '+ nama +'%0A' +
+                '*Rating* : '+ rating +'%0A%0A' +
+                '*Ulasan* :%0A'+ review +'%0A%0A' +
+                '_via link_ : ' + location.href;
+          }
+          if (id == 'daftarWhatsApp') {
+
+            var nama_admin = tw_config.nama_admin,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_whatsapp,
+                judul = $('#'+id+' .title-content').text(),
+                nama = $('#'+id+' .nama').val(),
+                nohp = $('#'+id+' .nohp').val(),
+                jadi = $('#'+id+' .jadi').val(),
+                pesan = $('#'+id+' .pesan').val();
+
+            var parameter = 'https://bit.ly/' + jadi;
+          }
+          if (id == 'konfirmWhatsApp') {
+
+            var nama_admin = tw_config.nama_admin,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_whatsapp,
+                judul = $('#'+id+' .title-content').text(),
+                nama = $('#'+id+' .nama').val(),
+                nohp = $('#'+id+' .nohp').val(),
+                jadi = $('#'+id+' .jadi').val();
+
+            var if_reseller = '';
+            if(jadi == 'Reseller') {
+              if_reseller = '*' + jadi + '*';
+            }
+
+            var if_epc = '';
+            if(jadi == 'Mitra EPC') {
+              if_epc = '*' + jadi + '*';
+            }
+
+            var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
+                pesan_salam + ' ' + nama_admin + '..%0A' +
+                'Saya *' + nama + '*, saya sudah mengisi formulir pendaftaran program kemitraan ' +
+                'sebagai '+ if_reseller +''+ if_epc +'. Mohon dikonfirmasi ya, kak. Terima kasih.%0A%0A' +
+                'No. HP Aktif : '+ nohp +'%0A%0A' +
+                '_via link_ : ' + location.href;
+          }
+          if (id == 'arisanWhatsApp') {
+
+            var nama_admin = tw_config.nama_admin,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_whatsapp,
+                judul = $('#'+id+' .title-content').text(),
+                nama = $('#'+id+' .nama').val(),
+                nohp = $('#'+id+' .nohp').val(),
+                periode = $('#'+id+' .periode').val(),
+                refer_arisan = $('#'+id+' .refer_arisan').val(),
+                nama_reseller = $('#'+id+' .nama_reseller').val(),
+                nama_epc = $('#'+id+' .nama_epc').val(),
+                produk = $('#'+id+' .produk').val();
+
+            var if_reseller = '';
+            if(refer_arisan == 'Reseller') {
+              if_reseller = '*' + refer_arisan + ' ' + nama_reseller + '*';
+            }
+
+            var if_epc = '';
+            if(refer_arisan == 'Mitra EPC') {
+              if_epc = '*' + refer_arisan + ' ' + nama_epc + '*';
+            }
+            var if_none = '';
+            if(refer_arisan == 'Tidak Ada') {
+              if_none = '*Tidak Ada*';
+            }
+
+            var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
+                pesan_salam + ' ' + nama_admin + '..%0A' +
+                'Saya *' + nama + '*, mau daftar arisan *'+ produk +'* dengan periode *'+ periode +'*.%0A%0A' +
+                'No. HP Aktif : '+ nohp +'%0A%0A' +
+                'Referensi dari : ' + if_reseller +'' + if_epc + '' + if_none + '%0A%0A' +
+                '_via link_ : ' + location.href;
+
+          }
+          if (id == 'konfirmArisan') {
+
+            var nama_admin = tw_config.nama_admin,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_whatsapp,
+                judul = $('#'+id+' .title-content').text(),
+                nama = $('#'+id+' .nama').val(),
+                periode = $('#'+id+' .periode').val(),
+                refer_arisan = $('#'+id+' .refer_arisan').val(),
+                nama_reseller = $('#'+id+' .nama_reseller').val(),
+                nama_epc = $('#'+id+' .nama_epc').val(),
+                nama_anggota = $('#'+id+' .nama_anggota').val(),
+                iuran_arisan = $('#'+id+' .iuran_arisan').val();
+
+            var if_reseller = '';
+            if(refer_arisan == 'Reseller') {
+              if_reseller = '*' + refer_arisan + ' ' + nama_reseller + '*';
+            }
+
+            var if_epc = '';
+            if(refer_arisan == 'Mitra EPC') {
+              if_epc = '*' + refer_arisan + ' ' + nama_epc + '*';
+            }
+            var if_non = '';
+            if(refer_arisan == 'Non-Anggota') {
+              if_non = '*'+ nama_anggota +'*';
+            }
+
+            var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
+                pesan_salam + ' ' + nama_admin + '..%0A' +
+                'Saya ' + if_reseller +'' + if_epc + '' + if_non + ', mau *konfirmasi pendaftaran arisan*.%0A%0A' +
+                'Atas Nama : *'+ nama +'*%0A' +
+                'Periode : *'+ periode +'*%0A' +
+                'Iuran Awal : *'+ iuran_arisan +'*%0A%0A' +
+                '_via link_ : ' + location.href;
+
+         }
+         if (id == 'checkoutArisan') {
+
+            var nama_admin = tw_config.nama_admin,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_whatsapp,
+                judul = $('#'+id+' .productCheckoutInfo .infoTitle').text(),
+                qty = $('#'+id+' .productCheckoutInfo .qty').text(),
+                satuan = $('#'+id+' .productCheckoutInfo .satuan').text(),
+                info = $('#'+id+' .productOptionInfo').text(),
+                nama = $('#'+id+' .nama').val(),
+                nohp = $('#'+id+' .nohp').val(),
+                jumlah = $('#'+id+' .jumlah').val(),
+                periode = $('#'+id+' .periode').val(),
+                alamat = $('#'+id+' .alamat').val(),
+                kota = $('#'+id+' .kota').val(),
+                kecamatan = $('#'+id+' .kecamatan').val();
+
+            var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
+                pesan_salam + ' ' + nama_admin + '..%0A' +
+                'Saya *' + nama + '*, mau *daftar arisan*.%0A' +
+                'Produk : *' + judul + '*%0A%0A' +
+                info + 
+                '*Qty.* : ' + qty + ' ' + satuan + '%0A' +
+                '_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _%0A%0A' +
+                '*Periode Arisan* :%0A' + periode + '%0A%0A' +
+                '*Alamat Pengiriman* :%0A' + alamat + '%0A' +
+                'Kec. ' + kecamatan + ' - Kab./Kota ' + kota + '%0A%0A' +
+                'A/n.%0A*' + nama + '* - ' + nohp + '%0A%0A' +
+                '_via link_ : ' + location.href;
+
+          }
+
+            else if (id == 'checkoutWhatsApp') {
+
+            var nama_admin = tw_config.nama_admin,
+                pesan_salam = tw_config.pesan_salam,
+                kode_area = 62,
+                nomor_whatsapp = tw_config.no_whatsapp,
+                judul = $('#'+id+' .productCheckoutInfo .infoTitle').text(),
+                qty = $('#'+id+' .productCheckoutInfo .qty').text(),
+                satuan = $('#'+id+' .productCheckoutInfo .satuan').text(),
+                info = $('#'+id+' .productOptionInfo').text(),
+                nama = $('#'+id+' .nama').val(),
+                nohp = $('#'+id+' .nohp').val(),
+                jumlah = $('#'+id+' .jumlah').val(),
+                pembayaran = $('#'+id+' .pembayaran').val(),
+                alamat = $('#'+id+' .alamat').val(),
+                kota = $('#'+id+' .kota').val(),
+                kecamatan = $('#'+id+' .kecamatan').val();
+
+            var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
+                pesan_salam + ' ' + nama_admin + '..%0A' +
+                'Saya *' + nama + '*, mau beli *' + judul + '*.%0A%0A' +
+                info + 
+                '*Qty.* : ' + qty + ' ' + satuan + '%0A' +
+                '_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _%0A%0A' +
+                '*Metode Pembayaran* :%0A Transfer via ' + pembayaran + '%0A%0A' +
+                '*Alamat Pengiriman* :%0A' + alamat + '%0A' +
+                'Kec. ' + kecamatan + ' - Kab./Kota ' + kota + '%0A%0A' +
+                'A/n.%0A*' + nama + '* - ' + nohp + '%0A%0A' +
+                '_via link_ : ' + location.href;
+
+          }
+          // alert(parameter);
+          $(this).attr('href', parameter);
+
+          var w = 960,
+              h = 540,
+              left = Number((screen.width / 2) - (w / 2)),
+              tops = Number((screen.height / 2) - (h / 2)),
+              popupWindow = window.open(this.href, '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=1, copyhistory=no, width=' + w + ', height=' + h + ', top=' + tops + ', left=' + left);
+          popupWindow.focus();
+          return false;
+        }
+      }
+      $(document).on('click','.popWin', function(){
+        var target_url = $(this).attr('href'),
+            w = $(this).attr('data-popWidth'),
+            h = $(this).attr('data-popHeight');
+
+        if (w == null) {
+          w = 960;
+        }
+        if (h == null) {
+          h = 540;
+        }
+        left = Number((screen.width / 2) - (w / 2)),
+          tops = Number((screen.height / 2) - (h / 2)),
+          popupWindow = window.open(target_url, '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=1, copyhistory=no, width=' + w + ', height=' + h + ', top=' + tops + ', left=' + left);
+        popupWindow.focus();
+        return false;
+      });
+      $('.LinkList li a[href*="#"]').each(function(){
+        $(this).parent('li').addClass('dd');
+        $(this).parent('li').append('<ul></ul>');
+        $(this).attr('href','javascript:void(0)');
+      });
+      $('.LinkList li a:contains("_")').each(function(){
+        var dd = $(this).parent('li').prev('.dd').find('ul');
+        $(this).parent('li').appendTo(dd);
+
+        var text = $(this).text().replace('_','');
+        $(this).text(text)
+      });
+      $('.LinkList li.dd').click(function(){
+        $(this).find('ul:first').toggle();
+        $(this).toggleClass('active');
+      });
+      $('.btnCat, .closeCategory, .btnCategory, .tw_category .utama').click(function(){
+        $('.tw_category .Label').toggle();
+      });
+      // --- Plug-in toggleAttr --- //
+      $.fn.toggleAttr = function(attr, attr1, attr2) {
+        return this.each(function() {
+          var self = $(this);
+          if (self.attr(attr) == attr1)
+            self.attr(attr, attr2);
+          else
+            self.attr(attr, attr1);
+        });
+      };
+      $('.btnMenu, .closeMenu').click(function(){
+        $('.tw_menu .LinkList').toggle();
+        $('.tw_category .Label').hide();
+        $('.btnMenu').find('i').toggleClass('ion-ios-menu');
+        $('.btnMenu').find('i').toggleClass('ion-ios-arrow-up');
+        // $('.btnMenu').find('ion-icon').attr('name','grid');
+        // $('.btnMenu').find('ion-icon').toggleAttr('name', 'grid', 'grid-outline');
+        $('.closeMenuCategory').fadeToggle();
+      });
+      $('.closeMenuCategory').click(function(){
+        $('.tw_menu .LinkList').hide();
+        $('.tw_category .Label').hide();
+        $('.btnMenu').find('i').removeClass('ion-ios-arrow-up');
+        $('.btnMenu').find('i').addClass('ion-ios-menu');
+        // $('.btnMenu').find('ion-icon').removeAttr('name','grid-outline');
+        // $('.btnMenu').find('ion-icon').attr('name','grid');
+        $('.closeMenuCategory').fadeOut();
+      });
+      $('.btnSearch').click(function(){
+        $('.headerSearch').show();
+        $('.headerSearch form .text').focus();
+      });
+      $('.headerSearch i.ion-ios-arrow-back').click(function(){
+        $('.headerSearch').hide();
+        $('.headerSearch form .text').blur();
+      });
+      $('.tw_search').click(function(){
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+          $('.headerSearch i.ion-ios-arrow-back').trigger('click');
+        };
+        $('.headerSearch form i.ion-md-close').trigger('click');
+      });
+
+      $(document).on('keyup','.headerSearch form .text', function() {
+        if (event.keyCode === 13) {
+          if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            $('.headerSearch i.ion-ios-arrow-back').trigger('click');
+          } else {
+            $('.tw_search').hide();
+          };
+        }
+      });
+
+      $('.headerSearch form .text').keyup(function(){
+        if($(this).val() != '') {
+          $('.tw_search').show();
+          $('.headerSearch form i.ion-md-close').show();
+        } else {
+          $('.tw_search').hide();
+          $('.headerSearch form i.ion-md-close').hide();
+        }
+      });
+      $('.headerSearch form i.ion-md-close').click(function(){
+        $('.tw_search').hide();
+        $('.headerSearch form i.ion-md-close').hide();
+        $('.headerSearch form .text').val('');
+      });
+      if (sessionStorage.getItem('ss_notif') == null) {
+        $('.btnNotif span').fadeIn();
+      }
+      $('.btnNotif').click(function(){
+        $('.btnNotif span').hide();
+        sessionStorage.setItem('ss_notif',false);
+      });
+
+      if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+
+        $('a').each(function(){
+          var url = $(this).attr('href') + '?m=1';
+          var url2 = $(this).attr('href') + '&m=1';
+          if(url == window.location || url2 == window.location) {
+            $(this).addClass('active');
+          }
+        });
+
+      } else {
+
+        $('a').each(function(){
+          var url = $(this).attr('href');
+          if(url == window.location) {
+            $(this).addClass('active');
+          }
+        });
+
+      }
+      $('textarea.code').each(function(){
+        var val = $(this).val(),
+        replace = val.replace(/<br\s?\/?>/g,"");
+        $(this).val(replace);
+        $(this).on('click',function(){
+          $(this).select();
+        });
+        $(this).attr('readonly','readonly');
+      });
+        
+/* jsglobal */
+      //]]>
+    </script>
+
+<div class='orderNotif'></div>
+<script type='text/javascript'>
+//<![CDATA[
+var dataOrder = {
+    "Bunda Zaskia": {
+        "screenshotURL": "",
+        "avaURL": "https://2.bp.blogspot.com/-6eTal4cCenM/XmNqLkcj4GI/AAAAAAAABVs/f2PtPjOTmnIZTlMpxHgC2LpcKi1ebcoWgCLcBGAsYHQ/s1600/bunda_zaskia.jpg",
+        "time": "2020-11-30",
+        "template": "Little Abid",
+        "templateURL": "/2019/04/buku-cordoba-kids-little-abid.html",
+    },
+    "Bunda Aisyah": {
+        "screenshotURL": "",
+        "avaURL": "",
+        "time": "2020-12-24",
+        "template": "Smart Hafiz V.5",
+        "templateURL": "/2020/12/new-smart-hafiz-versi-5.html",
+    },
+    "Pak Ahmadi": {
+        "screenshotURL": "",
+        "avaURL": "",
+        "time": "2020-12-24",
+        "template": "Smart Hafiz V.5",
+        "templateURL": "/2020/12/new-smart-hafiz-versi-5.html",
+    },
+    "Bunda Risti": {
+        "screenshotURL": "",
+        "avaURL": "",
+        "time": "2020-11-27",
+        "template": "Cakrawala Pengetahuan Dasar",
+        "templateURL": "/2019/04/cakrawala-pengetahuan-dasar.html",
+    },
+    "Bunda Viji": {
+        "screenshotURL": "",
+        "avaURL": "https://3.bp.blogspot.com/-bY1vmtRqL2Y/XMuWTqxRHSI/AAAAAAAAArk/lu9DA_sIIZAQQV6WxU4BAZQb1WTwD0B4wCLcBGAs/h60/pp-buviji.png",
+        "time": "2020-11-30",
+        "template": "Super Hafiz",
+        "templateURL": "/2019/11/super-hafiz.html",
+    },
+    "Bunda Amina": {
+        "screenshotURL": "",
+        "avaURL": "",
+        "time": "2020-12-07",
+        "template": "New Hafiz Junior",
+        "templateURL": "/2019/11/new-hafiz-junior.html",    
+    },
+    "Pak Riki Hidayat": {
+        "screenshotURL": "",
+        "avaURL": "",
+        "time": "2020-12-25",
+        "template": "Smart Hafiz V.5",
+        "templateURL": "/2020/12/new-smart-hafiz-versi-5.html",   
+    },
+    "Bunda Gisel": {
+        "screenshotURL": "",
+        "avaURL": "https://2.bp.blogspot.com/-jQaaFQzmoRA/XMugdr28xeI/AAAAAAAAAsU/ffnPQ0vvp24mwhPvg0bFgkXpkCSIRGA0gCLcBGAs/h60/pp-bugisel.png",
+        "time": "2020-12-15",
+        "template": "Widya Wiyata Pertama",
+        "templateURL": "/2019/04/widya-wiyata-pertama.html",
+    },
+};
+$(window).bind('load', function() {
+    $.each(dataOrder, function(key, value) {
+      var ifAvaURL = 'https://1.bp.blogspot.com/-o9lCuVV_mSY/XMuTDdKWi3I/AAAAAAAAArM/AJ_5A8y0oA4Hpd-I3l_Hpp4fN7q_j2FzQCLcBGAs/h60/pp-wa.png';
+        if (value.avaURL != '') {
+            ifAvaURL = value.avaURL;
+        }
+        $('\
+<div class="item" datetime="' + value.time + '">\
+<span class="avaURL" style="background-image:url(' + ifAvaURL + ');"></span>\
+<h5><a class="closeOrderNotif" href="javascript:void(0);"><i class="icon ion-ios-close"></i></a></h5>\
+<span class="infoOrder">\
+<b>' + key + '</b><br />telah berhasil membeli <b><a href="' + value.templateURL + '">' + value.template + '</a></b>\
+<small><!-- a href="' + value.screenshotURL + '" class="lightbox viewOrderNotif" title="Bukti Transaksi - ' + key + '"><i class="icon ion-ios-search"></i> Cek</a --><i class="icon ion-md-time"></i> <time class="timeago postingTime" datetime="' + value.time + '"></time></small>\
+    </span>\
+    </div>\
+').appendTo('.orderNotif');
+    });
+    $(".orderNotif > .item:gt(0)").removeClass('active');
+    setInterval(function() {
+        $('.orderNotif > .item:first').removeClass('active')
+        setTimeout(function() {
+            $('.orderNotif > .item:first').next().addClass('active').end().appendTo('.orderNotif');
+        }, 5000);
+    }, 10000);
+});
+$(document).on('click', '.orderNotif .closeOrderNotif', function() {
+    $(this).parents('.item').addClass('hidden');
+});
+//]]>
+</script>
+<script type='text/javascript'>
+      //<![CDATA[
+      var cekMobile = false;
+      if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        cekMobile = true;
+      }
+      function timeAgo(timeStamp) {
+        var previous = new Date(timeStamp);
+        var current = new Date();
+        var msPerMinute = 60 * 1000;
+        var msPerHour = msPerMinute * 60;
+        var msPerDay = msPerHour * 24;
+        var msPerMonth = msPerDay * 30;
+        var msPerYear = msPerDay * 365;
+        var ago = 'yang lalu';
+        var elapsed = current - previous;
+        if (elapsed < msPerMinute) {
+          return Math.round(elapsed/1000) + ' detik ' + ago;   
+        }
+        else if (elapsed < msPerHour) {
+          return Math.round(elapsed/msPerMinute) + ' menit ' + ago;   
+        }
+        else if (elapsed < msPerDay ) {
+          return Math.round(elapsed/msPerHour ) + ' jam ' + ago;   
+        }
+        else if (elapsed < msPerMonth) {
+          return Math.round(elapsed/msPerDay) + ' hari ' + ago;   
+        }
+        else if (elapsed < msPerYear) {
+          return Math.round(elapsed/msPerMonth) + ' bulan ' + ago;   
+        }
+        else {
+          return Math.round(elapsed/msPerYear ) + ' tahun ' + ago;   
+        }
+      }
+      $('.comment .datetime').each(function(){
+        var timestamp = $(this).find('a').text();
+        $(this).find('a').text(timeAgo(timestamp));
+      });
+      $(window).bind('load',function(){
+        $('.timeago').each(function(){
+          var timestamp = $(this).attr('datetime');
+          $(this).text(timeAgo(timestamp));
+        });
+      });
+      //]]>
+    </script>
+
+
+<div class='sticky-ad' id='sticky-ad'>
+
+
+<ins class='adsbygoogle' data-ad-client='ca-pub-9338233224794989' data-ad-slot='4568445912' style='display:inline-block;width:728px;height:90px'></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<button aria-label='Close this ad' class='sticky-ad-close-button' onclick='document.getElementById(&#39;sticky-ad&#39;).style.display=&#39;none&#39;;'></button>
+</div>
+<script>
+//<![CDATA[
+window.addEventListener("scroll",function(){
+  var target = document.getElementById('sticky-ad');
+  if(window.pageYOffset > 300){
+   target.style.bottom = "0";
+  }
+},false);
+//]]>
+</script>
+
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '2584250768483503',
+      xfbml      : true,
+      version    : 'v6.0'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script type='text/javascript'>
+//<![CDATA[
+// Lazy Load AdSense
+var lazyadsense=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&!1===lazyadsense||0!=document.body.scrollTop&&!1===lazyadsense)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}(),lazyadsense=!0)},!0);
+//]]>
+</script>
