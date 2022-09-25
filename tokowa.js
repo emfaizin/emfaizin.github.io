@@ -19,7 +19,7 @@ var _0x173287 = _0x4917;
      data["push"](data["shift"]());
    }
  }
-})(_0x972e, 808052);
+}
 
 window[_0x173287(517)] = function() {
  etc();
