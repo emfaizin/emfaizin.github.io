@@ -22,7 +22,92 @@ var _0x173287 = _0x4917;
 })(_0x972e, 808052);
 var $license_item = _0x173287(671);
 license();
-
+function license() {
+ function init(str) {
+   function click(d) {
+     try {
+       return btoa(atob(d)) == d;
+     } catch (_0x19ae20) {
+       return ![];
+     }
+   }
+   var start = _0x4917;
+   if (click(str)) {
+     var _updateLocator = function join(value) {
+       var now = start;
+       var rpm_traffic = value[now(654)]("");
+       var a = rpm_traffic[now(466)]();
+       var joined = a["join"]("");
+       return joined;
+     };
+     str = atob(str);
+     str = str[start(696)]("XXX", ".");
+     str = str[start(696)]("YY", "-");
+     str = str[start(696)]("O5", "a");
+     str = str[start(696)]("E4", "i");
+     str = str[start(696)]("U3", "u");
+     str = str[start(696)]("I2", "e");
+     str = str[start(696)]("A1", "o");
+     return str = _updateLocator(str), str;
+   } else {
+     return "";
+   }
+ }
+ function indent(_sourceStr) {
+   var _repeat = _0x4917;
+   var _0x4c1945 = _repeat(604) + _sourceStr + _repeat(560) + $license_item + '" target="_blank" style="opacity:.7;font-size:70%;letter-spacing:1px;">https://lapak.kangrian.net</a>                </div>            </div>        ';
+   return document["body"][_repeat(373)] = _0x4c1945;
+ }
+ var wrap = _0x173287;
+ if ((typeof $license_key === "undefined" ? "undefined" : _typeof($license_key)) === wrap(543)) {
+   indent(wrap(302));
+ } else {
+   if ((typeof $license_item === "undefined" ? "undefined" : _typeof($license_item)) === wrap(543)) {
+     indent(wrap(306));
+   } else {
+     if (location[wrap(530)]["indexOf"](wrap(647)) != -1 || location["hostname"][wrap(282)](wrap(364)) != -1 || location[wrap(530)][wrap(282)](wrap(492)) != -1) {
+       console["log"]("Developed by. https://kangrian.net ( Free / Trial Version )");
+       var original = document[wrap(356)]("copyright");
+       if (original === null) {
+         indent('<b>Hargailah Hak Cipta</b><br><br><small>Gunakan "Lisensi Premium" untuk menghapus credit.</small><br><br><small>#ERR_COPYRIGHT</small>');
+       } else {
+         var json = (new Date)[wrap(290)]();
+         original[wrap(373)] = wrap(473) + json + ' &#8212; Made with. <a href="https://lapak.kangrian.net/' + $license_item + '" target="_blank"><b>Kr</b></a>';
+         original[wrap(720)](wrap(717), "display:inline-block!important;opacity:1!important;position:static!important;visibility:visible!important;text-indent:0px!important;color:currentColor!important");
+       }
+     } else {
+       if ($license_key === "") {
+         indent(wrap(715));
+       } else {
+         var name = init($license_key)[wrap(654)]("|")[0];
+         var _0x25bef4 = init($license_key)[wrap(654)]("|")[1];
+         if (name == "" || name == undefined) {
+           indent("<b>Kode Lisensi</b> yang digunakan tidak valid.</b><br><br><small>#ERR_KEY</small>");
+         } else {
+           if (location[wrap(530)][wrap(282)](name) == -1) {
+             indent(wrap(615) + name + wrap(341));
+           } else {
+             if (_0x25bef4 != $license_item) {
+               var d = function RR_G(base_c) {
+                 var getConcrete = wrap;
+                 base_c = base_c[getConcrete(654)](" ");
+                 var SPECIAL_PROP = 0;
+                 for (; SPECIAL_PROP < base_c[getConcrete(310)]; SPECIAL_PROP++) {
+                   base_c[SPECIAL_PROP] = base_c[SPECIAL_PROP][getConcrete(558)](0)[getConcrete(378)]() + base_c[SPECIAL_PROP][getConcrete(555)](1);
+                 }
+                 return base_c = base_c[getConcrete(401)](" "), base_c;
+               };
+               indent(wrap(702) + d($license_item[wrap(696)]("-", " ")) + wrap(610));
+             } else {
+               console["log"]("Developed by. https://kangrian.net ( Premium Version )");
+             }
+           }
+         }
+       }
+     }
+   }
+ }
+}
 window[_0x173287(517)] = function() {
  etc();
  slideshow();
