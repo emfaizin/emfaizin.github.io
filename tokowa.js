@@ -71,7 +71,9 @@ function license() {
        if (original === null) {
          indent('<b>Hargailah Hak Cipta</b><br><br><small>Gunakan "Lisensi Premium" untuk menghapus credit.</small><br><br><small>#ERR_COPYRIGHT</small>');
        } else {
-        
+         var json = (new Date)[wrap(290)]();
+         original[wrap(373)] = wrap(473) + json + ' &#8212; Made with. <a href="#' + $license_item + '" target="_blank"><b>Kr</b></a>';
+         original[wrap(720)](wrap(717), "display:inline-block!important;opacity:1!important;position:static!important;visibility:visible!important;text-indent:0px!important;color:currentColor!important");
        }
      } else {
        if ($license_key === "") {
@@ -1359,3 +1361,4 @@ function get_url_parameter(filter, name) {
  }
  return decodeURIComponent(subject[2][capitalize(321)](/\+/g, " "));
 }
+;
