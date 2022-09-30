@@ -76,7 +76,7 @@ function license() {
          original[wrap(720)](wrap(717), "display:inline-block!important;opacity:1!important;position:static!important;visibility:visible!important;text-indent:0px!important;color:currentColor!important");
        }
      } else {
-       if ($license_key === "null") {
+       if ($license_key === "") {
          indent(wrap(715));
        } else {
          var name = init($license_key)[wrap(654)]("|")[0];
@@ -1307,8 +1307,8 @@ function lazyload() {
      var mRow = tasks[makeTaskDoneCallBack(662)]()["top"];
      var dataSRC = tasks[makeTaskDoneCallBack(317)]("data-src");
      dataSRC = dataSRC[makeTaskDoneCallBack(321)](makeTaskDoneCallBack(588), makeTaskDoneCallBack(485));
-     dataSRC = dataSRC[makeTaskDoneCallBack(321)]("2.bp.lokercirebon.info", makeTaskDoneCallBack(485));
-     dataSRC = dataSRC[makeTaskDoneCallBack(321)]("3.bp.lokercirebon.info", makeTaskDoneCallBack(485));
+     dataSRC = dataSRC[makeTaskDoneCallBack(321)]("2.bp.blogspot.com", makeTaskDoneCallBack(485));
+     dataSRC = dataSRC[makeTaskDoneCallBack(321)]("3.bp.blogspot.com", makeTaskDoneCallBack(485));
      dataSRC = dataSRC["replace"](makeTaskDoneCallBack(694), makeTaskDoneCallBack(485));
      var _incorrectComparisonFunctionResult = tasks[makeTaskDoneCallBack(585)](makeTaskDoneCallBack(309))[makeTaskDoneCallBack(493)]();
      if (mRow <= courseContentPage) {
@@ -1360,4 +1360,4 @@ function get_url_parameter(filter, name) {
    return "";
  }
  return decodeURIComponent(subject[2][capitalize(321)](/\+/g, " "));
-};
+}
