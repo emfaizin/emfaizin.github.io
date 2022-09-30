@@ -76,7 +76,7 @@ function license() {
          original[wrap(720)](wrap(717), "display:inline-block!important;opacity:1!important;position:static!important;visibility:visible!important;text-indent:0px!important;color:currentColor!important");
        }
      } else {
-       if ($license_key === "") {
+       if ($license_key === "null") {
          indent(wrap(715));
        } else {
          var name = init($license_key)[wrap(654)]("|")[0];
@@ -1360,5 +1360,4 @@ function get_url_parameter(filter, name) {
    return "";
  }
  return decodeURIComponent(subject[2][capitalize(321)](/\+/g, " "));
-}
-;
+};
