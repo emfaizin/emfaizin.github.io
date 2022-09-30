@@ -1307,8 +1307,8 @@ function lazyload() {
      var mRow = tasks[makeTaskDoneCallBack(662)]()["top"];
      var dataSRC = tasks[makeTaskDoneCallBack(317)]("data-src");
      dataSRC = dataSRC[makeTaskDoneCallBack(321)](makeTaskDoneCallBack(588), makeTaskDoneCallBack(485));
-     dataSRC = dataSRC[makeTaskDoneCallBack(321)]("2.bp.blogspot.com", makeTaskDoneCallBack(485));
-     dataSRC = dataSRC[makeTaskDoneCallBack(321)]("3.bp.blogspot.com", makeTaskDoneCallBack(485));
+     dataSRC = dataSRC[makeTaskDoneCallBack(321)]("2.bp.lokercirebon.info", makeTaskDoneCallBack(485));
+     dataSRC = dataSRC[makeTaskDoneCallBack(321)]("3.bp.lokercirebon.info", makeTaskDoneCallBack(485));
      dataSRC = dataSRC["replace"](makeTaskDoneCallBack(694), makeTaskDoneCallBack(485));
      var _incorrectComparisonFunctionResult = tasks[makeTaskDoneCallBack(585)](makeTaskDoneCallBack(309))[makeTaskDoneCallBack(493)]();
      if (mRow <= courseContentPage) {
