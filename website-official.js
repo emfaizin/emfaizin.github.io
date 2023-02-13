@@ -83,7 +83,7 @@ function license() {
                     _0x20c257(_0x57406b(0x20c));
                 else {
                     var _0x450f0e = new Date()[_0x57406b(0x231)]();
-                    _0x290aa3[_0x57406b(0x1cb)] = '&#0169;' '\x22\x20target=\x22_blank\x22><b>LokerCirebon.info</b></a>',
+                    _0x290aa3[_0x57406b(0x1cb)] = '' '\x22\x20target=\x22_blank\x22><b>LokerCirebon.info</b></a>',
                     _0x290aa3['setAttribute'](_0x57406b(0x1c0), _0x57406b(0x1c1));
                 }
             } else {
