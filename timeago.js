@@ -3,15 +3,15 @@
  * updating fuzzy timestamps (e.g. "4 minutes ago" or "about 1 day ago").
  *
  * @name timeago
- * @version 1.4.3
- * @requires jQuery v1.2.3+
+ * @version 1.6.7
+ * @requires jQuery >=1.5.0 <4.0
  * @author Ryan McGeary
  * @license MIT License - http://www.opensource.org/licenses/mit-license.php
  *
  * For usage and examples, visit:
  * http://timeago.yarp.com/
  *
- * Copyright (c) 2008-2015, Ryan McGeary (ryan -[at]- mcgeary [*dot*] org)
+ * Copyright (c) 2008-2019, Ryan McGeary (ryan -[at]- mcgeary [*dot*] org)
  */
 
 (function (factory) {
@@ -45,30 +45,31 @@
       allowFuture: false,
       localeTitle: false,
       cutoff: 0,
+      autoDispose: true,
       strings: {
         prefixAgo: null,
         prefixFromNow: null,
-        suffixAgo: "lalu",
-        suffixFromNow: "mulai sekarang",
-        inPast: 'Baru saja',
-        seconds: "Beberapa detik",
-        minute: "1 menit",
-        minutes: "%d menit",
-        hour: "1 jam",
-        hours: "%d jam",
-        day: "1 hari",
-        days: "%d hari",
-        month: "1 bulan",
-        months: "%d bulan",
-        year: "1 tahun",
-        years: "%d tahun",
+        suffixAgo: "ago",
+        suffixFromNow: "from now",
+        inPast: "any moment now",
+        seconds: "less than a minute",
+        minute: "about a minute",
+        minutes: "%d minutes",
+        hour: "about an hour",
+        hours: "about %d hours",
+        day: "a day",
+        days: "%d days",
+        month: "about a month",
+        months: "%d months",
+        year: "about a year",
+        years: "%d years",
         wordSeparator: " ",
         numbers: []
       }
     },
 
     inWords: function(distanceMillis) {
-      if(!this.settings.allowPast && ! this.settings.allowFuture) {
+      if (!this.settings.allowPast && ! this.settings.allowFuture) {
           throw 'timeago allowPast and allowFuture settings can not both be set to false.';
       }
 
@@ -82,7 +83,7 @@
         }
       }
 
-      if(!this.settings.allowPast && distanceMillis >= 0) {
+      if (!this.settings.allowPast && distanceMillis >= 0) {
         return this.settings.strings.inPast;
       }
 
@@ -138,7 +139,8 @@
   // init is default when no action is given
   // functions are called with context of a single element
   var functions = {
-    init: function(){
+    init: function() {
+      functions.dispose.call(this);
       var refresh_el = $.proxy(refresh, this);
       refresh_el();
       var $s = $t.settings;
@@ -146,13 +148,15 @@
         this._timeagoInterval = setInterval(refresh_el, $s.refreshMillis);
       }
     },
-    update: function(time){
-      var parsedTime = $t.parse(time);
-      $(this).data('timeago', { datetime: parsedTime });
-      if($t.settings.localeTitle) $(this).attr("title", parsedTime.toLocaleString());
+    update: function(timestamp) {
+      var date = (timestamp instanceof Date) ? timestamp : $t.parse(timestamp);
+      $(this).data('timeago', { datetime: date });
+      if ($t.settings.localeTitle) {
+        $(this).attr("title", date.toLocaleString());
+      }
       refresh.apply(this);
     },
-    updateFromDOM: function(){
+    updateFromDOM: function() {
       $(this).data('timeago', { datetime: $t.parse( $t.isTime(this) ? $(this).attr("datetime") : $(this).attr("title") ) });
       refresh.apply(this);
     },
@@ -166,30 +170,35 @@
 
   $.fn.timeago = function(action, options) {
     var fn = action ? functions[action] : functions.init;
-    if(!fn){
+    if (!fn) {
       throw new Error("Unknown function name '"+ action +"' for timeago");
     }
     // each over objects here and call the requested function
-    this.each(function(){
+    this.each(function() {
       fn.call(this, options);
     });
     return this;
   };
 
   function refresh() {
+    var $s = $t.settings;
+
     //check if it's still visible
-    if(!$.contains(document.documentElement,this)){
+    if ($s.autoDispose && !$.contains(document.documentElement,this)) {
       //stop if it has been removed
       $(this).timeago("dispose");
       return this;
     }
 
     var data = prepareData(this);
-    var $s = $t.settings;
 
     if (!isNaN(data.datetime)) {
-      if ( $s.cutoff == 0 || Math.abs(distance(data.datetime)) < $s.cutoff) {
+      if ( $s.cutoff === 0 || Math.abs(distance(data.datetime)) < $s.cutoff) {
         $(this).text(inWords(data.datetime));
+      } else {
+        if ($(this).attr('title').length > 0) {
+            $(this).text($(this).attr('title'));
+        }
       }
     }
     return this;
