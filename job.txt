@@ -47,7 +47,7 @@ Company Name membuka lowongan kerja untuk posisi :<br />
 <!--============================================================================================================================== Inside Job Apply -->        
           <script>
             // Converting string to required date format 
-            let deadline = new Date("Apr 30, 2024 23:59:00")
+            let deadline = new Date("Aug 30, 2024 23:59:00")
                             .getTime();
  
             // To call defined fuction every second
@@ -69,8 +69,8 @@ Company Name membuka lowongan kerja untuk posisi :<br />
                     (t % (1000 * 60)) / 1000);
  
                 // Output the remaining time
-                document.getElementById("jobapply").innerHTML ="📍 CV Cahaya Prima Mandiri<br>📍 Jl. Nangka No.3 Kebarepan, Plumbon KM 12.8 Cirebon - Bandung<br>📧 "+"<a href="+"'mailto:hrdcahayabox@gmail.com'"+">hrdcahayabox@gmail.com</a>"+"<br>📝 Subjek email <b>Posisi_Nama</b>";
-                document.getElementById("bataskirim").innerHTML ="<div class="+"'elcreative_alert alert_info'>"+"Batas Kirim : " + "<strong> 30 April 2024</strong>"+"</div>";
+                document.getElementById("jobapply").innerHTML ="📍 CV Cahaya Prima Mandiri<br>📍 Jl. Nangka No.3 Kebarepan, Plumbon KM 12.8 Cirebon - Bandung<br>📧 "+"<a href="+"'mailto:hrdcahayabox@gmail.com'"+">hrdcahayabox@gmail.com</a>"+"<br>📝 Subjek email : <b>Posisi_Nama</b>";
+                document.getElementById("bataskirim").innerHTML ="<div class="+"'elcreative_alert alert_info'>"+"Tenggat Waktu : " + "30 September 2024"+"</div>";
                 document.getElementById("dheader").innerHTML ="<span style='"+"font-size:1.125rem'>" + "Hello! 😊 Job Apply Now</span>";
               
                 // Output for over time
@@ -79,7 +79,7 @@ Company Name membuka lowongan kerja untuk posisi :<br />
                     document.getElementById("jobapply")
                             .innerHTML = "Terima kasih atas minat anda! Lowongan kerja ini sudah ditutup ya. Nantikan kesempatan berikutnya.";
                     document.getElementById("bataskirim")
-                      		.innerHTML = "<div class="+"'elcreative_alert alert_error'>"+"Batas Kirim : " + "<strong> SUDAH DITUTUP</strong>"+"</div>";
+                      		.innerHTML = "<div class="+"'elcreative_alert alert_error'>"+"Tenggat Waktu : " + "30 September 2024"+"</div>";
                     document.getElementById("dheader")
                       		.innerHTML = "<span style='"+"font-size:1.125rem'>" + "Sorry! 🥺 Vacancy is Closed</span>";
                 }
