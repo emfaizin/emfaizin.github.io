@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880.97 233.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e40af;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        font-family: AlbertSans-Bold, 'Albert Sans';
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-family: AlbertSans-Regular, 'Albert Sans';
+      }
+
+      .cls-4 {
+        font-size: 195.98px;
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <circle class="cls-1" cx="37.25" cy="116.94" r="37.25"/>
+        <path class="cls-1" d="M59.31,7.35h0c-9.8,9.8-9.8,25.7,0,35.5l54.19,54.19c9.8,9.8,9.8,25.7,0,35.5l-56.33,56.33c-9.8,9.8-9.8,25.7,0,35.5l2.13,2.13c9.8,9.8,25.7,9.8,35.5,0l91.83-91.83c9.8-9.8,9.8-25.7,0-35.5L94.82,7.35c-9.8-9.8-25.7-9.8-35.5,0Z"/>
+      </g>
+      <text class="cls-4" transform="translate(228.17 174.36)"><tspan class="cls-2" x="0" y="0">Skill</tspan><tspan class="cls-3" x="332.38" y="0">hub</tspan></text>
+    </g>
+  </g>
+</svg>
